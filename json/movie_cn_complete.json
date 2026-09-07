@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "last_updated": "2026-09-06T12:11:49.133Z",
+    "last_updated": "2026-09-07T12:12:16.033Z",
     "version": "2.0.0",
     "update_log": [
       {
-        "time": "2026-09-06T12:11:49.133Z",
-        "summary": "已同步院线电影数据（complete）：552 条"
+        "time": "2026-09-07T12:12:16.033Z",
+        "summary": "已同步院线电影数据（complete）：554 条"
       }
     ],
     "source": "douban+maoyan+bilibili",
@@ -13,7 +13,7 @@
       {
         "slug": "movie_showing",
         "source": "douban",
-        "count": 36,
+        "count": 33,
         "fetch_error": null
       },
       {
@@ -41,7 +41,7 @@
         "fetch_error": null
       }
     ],
-    "total_items": 552
+    "total_items": 554
   },
   "movies": [
     {
@@ -1284,10 +1284,10 @@
       ],
       "imdb_id": null,
       "poster_path": "posters/douban/movie_cn/36903929.jpg",
-      "douban_rating": null,
+      "douban_rating": "6.8",
       "douban_link_google": "https://movie.douban.com/subject/36903929/",
       "douban_link_verified": true,
-      "overview": "即将大学毕业的顾立言（文淇 饰）与精明伶俐的母亲吴开蒂（倪虹洁 饰）关系微妙，随着父亲顾卫星（喻恩泰 饰）的久病离世，二人一边应对繁琐未知的丧葬流程，一边发现父亲的另外一面人生。这对性格迥异的母女在各类啼笑皆非又荒诞抓马的事件中彼此了解，也更懂得那个处处为二人着想的父亲。",
+      "overview": "顾立言（文淇 饰）与妈妈吴开蒂（倪虹洁 饰）面临至亲离别，追忆欢愉往昔，亦要面对遭逢变故后的各自成长。\n即将大学毕业的顾立言（文淇 饰）与精明伶俐的母亲吴开蒂（倪虹洁 饰）关系微妙，随着父亲顾卫星（喻恩泰 饰）的久病离世，二人一边应对繁琐未知的丧葬流程，一边发现父亲的另外一面人生。这对性格迥异的母女在各类啼笑皆非又荒诞抓马的事件中彼此了解，在爱中各自奔赴新生。",
       "durations": [
         "102分钟"
       ],
@@ -1297,8 +1297,8 @@
           "label": "周末档"
         }
       ],
-      "rating_count": null,
-      "rating_star_count": null,
+      "rating_count": 6012,
+      "rating_star_count": 3.5,
       "type": "movie"
     },
     {
@@ -1672,7 +1672,7 @@
       ],
       "imdb_id": null,
       "poster_path": "posters/douban/movie_cn/36318704.jpg",
-      "douban_rating": null,
+      "douban_rating": "5.5",
       "douban_link_google": "https://movie.douban.com/subject/36318704/",
       "douban_link_verified": true,
       "overview": "泰国封闭30多年的关山山脉，海拔超900米的高空魔鬼栈道，此前已发生多起高空坠落事件，是当地公认的“死亡禁区”。贾克斯（哈里特·斯莱特 饰）为了完成姐姐希洛（维吉尼亚·加德纳 饰）作为极限爱好者的遗愿，与她生前好友卢斯（阿塞玛·托马斯 饰）结伴来此挑战。上一秒两人还欢呼打卡于绝美壮丽的高空景色，却不料下一秒突如其来的地震滑坡便将她们逼入绝境。暴雨、失温、零信号、零补给……脚下的木板随时会断，头顶的碎石不停掉落，两人只能抓住残破的栈道边缘攀爬，在暴雨中寻找每一个可以落脚的支点，靠撕裂衣物做绳、用碎石敲击岩壁传讯。绝壁之上，前无去路，后有塌方，她们究竟能否成功生还？",
@@ -1680,8 +1680,8 @@
         "98分钟"
       ],
       "release_windows": [],
-      "rating_count": null,
-      "rating_star_count": null,
+      "rating_count": 10484,
+      "rating_star_count": 3,
       "type": "movie",
       "trailers": [
         {
@@ -1804,7 +1804,7 @@
       ],
       "imdb_id": null,
       "poster_path": "posters/douban/movie_cn/36889088.jpg",
-      "douban_rating": null,
+      "douban_rating": "5.8",
       "douban_link_google": "https://movie.douban.com/subject/36889088/",
       "douban_link_verified": true,
       "overview": "科尔·里德（杰森·斯坦森 饰）是富豪蒂布（阿蒙·蒂卡拉姆 饰）的贴身保镖，但一场意外袭击让蒂布丧命，科尔也被诬陷为凶手，全境通缉。\n恩人被杀、自己蒙冤，科尔带着满腔愤怒，只身闯入远洋货轮开启一秒收割一命的硬核复仇，又意外揭开了一个骇人听闻的阴谋……怒火点燃大海，货轮成为血色牢笼，一场避无可避的厮杀即将展开！",
@@ -1817,8 +1817,8 @@
           "label": "暑期档"
         }
       ],
-      "rating_count": null,
-      "rating_star_count": null,
+      "rating_count": 8677,
+      "rating_star_count": 3,
       "type": "movie",
       "trailers": [
         {
@@ -1902,7 +1902,7 @@
       ],
       "imdb_id": null,
       "poster_path": "posters/douban/movie_cn/37427091.jpg",
-      "douban_rating": null,
+      "douban_rating": "5.8",
       "douban_link_google": "https://movie.douban.com/subject/37427091/",
       "douban_link_verified": true,
       "overview": "常年游走于凶宅的试睡员吴霜（傅菁 饰），在某个雨夜入住一栋曾发生过命案的法拍别墅，偶遇同来试睡的菜鸟博主年轮（苏劲源 饰），试睡过程中屋内频频出现各种“怪事”：诡异声响夜半不绝、不明血印墙面浮现、屋内空间错乱颠倒。一系列异常出现的原因究竟是什么？这座怪屋里还隐藏着哪些秘密？",
@@ -1915,8 +1915,8 @@
           "label": "暑期档"
         }
       ],
-      "rating_count": null,
-      "rating_star_count": null,
+      "rating_count": 1379,
+      "rating_star_count": 3,
       "type": "movie"
     },
     {
@@ -5452,6 +5452,122 @@
       }
     },
     {
+      "id": 36935883,
+      "title": "灵魂伴侣",
+      "original_title": "Soulm8te",
+      "release_date": "2026-08-01",
+      "genres": [
+        {
+          "id": 1,
+          "name": "科幻"
+        },
+        {
+          "id": 2,
+          "name": "惊悚"
+        },
+        {
+          "id": 3,
+          "name": "恐怖"
+        }
+      ],
+      "directors": [
+        {
+          "id": 1,
+          "name": "凯特·多兰"
+        }
+      ],
+      "actors": [
+        {
+          "id": 1,
+          "name": "莉莉·沙利文"
+        },
+        {
+          "id": 2,
+          "name": "大卫·里达尔"
+        },
+        {
+          "id": 3,
+          "name": "克劳迪娅·杜米特"
+        },
+        {
+          "id": 4,
+          "name": "阿尔蒂·佛鲁山"
+        },
+        {
+          "id": 5,
+          "name": "伊利亚·库克"
+        },
+        {
+          "id": 6,
+          "name": "马拉·胡夫"
+        },
+        {
+          "id": 7,
+          "name": "西德尼·布莱克波恩"
+        },
+        {
+          "id": 8,
+          "name": "伊莎贝尔·邦弗雷"
+        },
+        {
+          "id": 9,
+          "name": "艾玛·拉莫斯"
+        },
+        {
+          "id": 10,
+          "name": "奥利弗·库珀"
+        },
+        {
+          "id": 11,
+          "name": "尼古拉斯·拉尼"
+        },
+        {
+          "id": 12,
+          "name": "汉娜·玛玛丽斯"
+        },
+        {
+          "id": 13,
+          "name": "加里·赫泽勒"
+        },
+        {
+          "id": 14,
+          "name": "乔丹妮·琼斯"
+        },
+        {
+          "id": 15,
+          "name": "安德鲁·艾斯科夫"
+        }
+      ],
+      "countries": [
+        "美国"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "aka": [
+        "《梅根》宇宙外传",
+        "夺魂伴侣"
+      ],
+      "imdb_id": null,
+      "poster_path": "posters/douban/movie_cn/36935883.jpg",
+      "douban_rating": "5.9",
+      "douban_link_google": "https://movie.douban.com/subject/36935883/",
+      "douban_link_verified": true,
+      "overview": "一名男子获得了一个人工智能机器人，以应对刚刚去世的妻子的去世。  为了创造一个真正有知觉的伴侣，他无意中把一个无害的爱情机器人变成了一个致命的灵魂伴侣。",
+      "durations": [
+        "99分钟"
+      ],
+      "release_windows": [
+        {
+          "id": "summer",
+          "label": "暑期档"
+        }
+      ],
+      "rating_count": 3203,
+      "rating_star_count": 3,
+      "type": "movie"
+    },
+    {
       "id": 36850814,
       "title": "年会不能停！2",
       "original_title": "年会不能停！2",
@@ -5609,122 +5725,6 @@
           "publishedAt": "2026-05-28T03:36:53.000Z"
         }
       ]
-    },
-    {
-      "id": 36935883,
-      "title": "灵魂伴侣",
-      "original_title": "Soulm8te",
-      "release_date": "2026-08-01",
-      "genres": [
-        {
-          "id": 1,
-          "name": "科幻"
-        },
-        {
-          "id": 2,
-          "name": "惊悚"
-        },
-        {
-          "id": 3,
-          "name": "恐怖"
-        }
-      ],
-      "directors": [
-        {
-          "id": 1,
-          "name": "凯特·多兰"
-        }
-      ],
-      "actors": [
-        {
-          "id": 1,
-          "name": "莉莉·沙利文"
-        },
-        {
-          "id": 2,
-          "name": "大卫·里达尔"
-        },
-        {
-          "id": 3,
-          "name": "克劳迪娅·杜米特"
-        },
-        {
-          "id": 4,
-          "name": "阿尔蒂·佛鲁山"
-        },
-        {
-          "id": 5,
-          "name": "伊利亚·库克"
-        },
-        {
-          "id": 6,
-          "name": "马拉·胡夫"
-        },
-        {
-          "id": 7,
-          "name": "西德尼·布莱克波恩"
-        },
-        {
-          "id": 8,
-          "name": "伊莎贝尔·邦弗雷"
-        },
-        {
-          "id": 9,
-          "name": "艾玛·拉莫斯"
-        },
-        {
-          "id": 10,
-          "name": "奥利弗·库珀"
-        },
-        {
-          "id": 11,
-          "name": "尼古拉斯·拉尼"
-        },
-        {
-          "id": 12,
-          "name": "汉娜·玛玛丽斯"
-        },
-        {
-          "id": 13,
-          "name": "加里·赫泽勒"
-        },
-        {
-          "id": 14,
-          "name": "乔丹妮·琼斯"
-        },
-        {
-          "id": 15,
-          "name": "安德鲁·艾斯科夫"
-        }
-      ],
-      "countries": [
-        "美国"
-      ],
-      "languages": [
-        "英语"
-      ],
-      "aka": [
-        "《梅根》宇宙外传",
-        "夺魂伴侣"
-      ],
-      "imdb_id": null,
-      "poster_path": "posters/douban/movie_cn/36935883.jpg",
-      "douban_rating": "5.9",
-      "douban_link_google": "https://movie.douban.com/subject/36935883/",
-      "douban_link_verified": true,
-      "overview": "一名男子获得了一个人工智能机器人，以应对刚刚去世的妻子的去世。  为了创造一个真正有知觉的伴侣，他无意中把一个无害的爱情机器人变成了一个致命的灵魂伴侣。",
-      "durations": [
-        "99分钟"
-      ],
-      "release_windows": [
-        {
-          "id": "summer",
-          "label": "暑期档"
-        }
-      ],
-      "rating_count": 3203,
-      "rating_star_count": 3,
-      "type": "movie"
     },
     {
       "id": 37054065,
@@ -20834,7 +20834,7 @@
       "overview": "",
       "durations": [],
       "release_windows": [],
-      "rating_count": 3189,
+      "rating_count": 3209,
       "rating_star_count": 4,
       "type": "movie"
     },
@@ -25099,7 +25099,7 @@
       "overview": "",
       "durations": [],
       "release_windows": [],
-      "rating_count": 2602,
+      "rating_count": 2615,
       "rating_star_count": 3,
       "type": "movie"
     },
@@ -30953,7 +30953,7 @@
           "label": "周末档"
         }
       ],
-      "rating_count": 504,
+      "rating_count": 505,
       "rating_star_count": 3.5,
       "type": "movie"
     },
@@ -31830,6 +31830,73 @@
       "type": "movie"
     },
     {
+      "id": 37049749,
+      "title": "浴火之森",
+      "original_title": "Cortafuego",
+      "release_date": "2026-02-20",
+      "genres": [
+        {
+          "id": 1,
+          "name": "剧情"
+        },
+        {
+          "id": 2,
+          "name": "惊悚"
+        }
+      ],
+      "directors": [
+        {
+          "id": 1,
+          "name": "大卫·维多利"
+        }
+      ],
+      "actors": [
+        {
+          "id": 1,
+          "name": "贝伦·奎斯塔"
+        },
+        {
+          "id": 2,
+          "name": "戴安娜·戈麦斯"
+        },
+        {
+          "id": 3,
+          "name": "恩里克·奥克尔"
+        },
+        {
+          "id": 4,
+          "name": "华金·弗里尔"
+        }
+      ],
+      "countries": [
+        "西班牙"
+      ],
+      "languages": [
+        "西班牙语"
+      ],
+      "aka": [
+        "Firebreaker"
+      ],
+      "imdb_id": null,
+      "poster_path": "posters/douban/movie_cn/37049749.jpg",
+      "douban_rating": "5.8",
+      "douban_link_google": "https://movie.douban.com/subject/37049749/",
+      "douban_link_verified": true,
+      "overview": "失去丈夫后，玛格达带着女儿莱德前往森林中的避暑别墅，准备将其出售。这原本是为了治愈创伤的第一步，却因莱德失踪和突发森林大火而发生了意外转折。",
+      "durations": [
+        "107分钟"
+      ],
+      "release_windows": [
+        {
+          "id": "spring_festival",
+          "label": "春节档"
+        }
+      ],
+      "rating_count": 467,
+      "rating_star_count": 3,
+      "type": "movie"
+    },
+    {
       "id": 37375594,
       "title": "夜王",
       "original_title": "夜王",
@@ -31996,73 +32063,6 @@
       ],
       "rating_count": 106293,
       "rating_star_count": 4,
-      "type": "movie"
-    },
-    {
-      "id": 37049749,
-      "title": "浴火之森",
-      "original_title": "Cortafuego",
-      "release_date": "2026-02-20",
-      "genres": [
-        {
-          "id": 1,
-          "name": "剧情"
-        },
-        {
-          "id": 2,
-          "name": "惊悚"
-        }
-      ],
-      "directors": [
-        {
-          "id": 1,
-          "name": "大卫·维多利"
-        }
-      ],
-      "actors": [
-        {
-          "id": 1,
-          "name": "贝伦·奎斯塔"
-        },
-        {
-          "id": 2,
-          "name": "戴安娜·戈麦斯"
-        },
-        {
-          "id": 3,
-          "name": "恩里克·奥克尔"
-        },
-        {
-          "id": 4,
-          "name": "华金·弗里尔"
-        }
-      ],
-      "countries": [
-        "西班牙"
-      ],
-      "languages": [
-        "西班牙语"
-      ],
-      "aka": [
-        "Firebreaker"
-      ],
-      "imdb_id": null,
-      "poster_path": "posters/douban/movie_cn/37049749.jpg",
-      "douban_rating": "5.8",
-      "douban_link_google": "https://movie.douban.com/subject/37049749/",
-      "douban_link_verified": true,
-      "overview": "失去丈夫后，玛格达带着女儿莱德前往森林中的避暑别墅，准备将其出售。这原本是为了治愈创伤的第一步，却因莱德失踪和突发森林大火而发生了意外转折。",
-      "durations": [
-        "107分钟"
-      ],
-      "release_windows": [
-        {
-          "id": "spring_festival",
-          "label": "春节档"
-        }
-      ],
-      "rating_count": 467,
-      "rating_star_count": 3,
       "type": "movie"
     },
     {
@@ -34089,7 +34089,7 @@
       "overview": "",
       "durations": [],
       "release_windows": [],
-      "rating_count": 407,
+      "rating_count": 408,
       "rating_star_count": 3.5,
       "type": "movie"
     },
@@ -39358,7 +39358,7 @@
       "overview": "",
       "durations": [],
       "release_windows": [],
-      "rating_count": 1333,
+      "rating_count": 1335,
       "rating_star_count": 4,
       "type": "movie"
     },
@@ -48963,6 +48963,61 @@
       "type": "movie"
     },
     {
+      "id": 37386538,
+      "title": "黑兔白兔",
+      "original_title": "黑兔白兔",
+      "release_date": "2025-09-21",
+      "genres": [
+        {
+          "id": 1,
+          "name": "剧情"
+        },
+        {
+          "id": 2,
+          "name": "悬疑"
+        }
+      ],
+      "directors": [
+        {
+          "id": 1,
+          "name": "沙朗·莫克利"
+        }
+      ],
+      "actors": [
+        {
+          "id": 1,
+          "name": "巴巴克·卡里米"
+        },
+        {
+          "id": 2,
+          "name": "Hasti Mohammaï"
+        },
+        {
+          "id": 3,
+          "name": "Kibriyo Dilyobova"
+        }
+      ],
+      "countries": [],
+      "languages": [],
+      "aka": [],
+      "imdb_id": null,
+      "poster_path": "posters/douban/movie_cn/37386538.jpg",
+      "douban_rating": "6.8",
+      "douban_link_google": "https://movie.douban.com/subject/37386538/",
+      "douban_link_verified": true,
+      "overview": "",
+      "durations": [],
+      "release_windows": [
+        {
+          "id": "weekend",
+          "label": "周末档"
+        }
+      ],
+      "rating_count": 319,
+      "rating_star_count": 3.5,
+      "type": "movie"
+    },
+    {
       "id": 37116027,
       "title": "伪钞之王",
       "original_title": "L’Affaire Bojarski",
@@ -51240,6 +51295,56 @@
       "type": "movie"
     },
     {
+      "id": 37065411,
+      "title": "爆发",
+      "original_title": "爆发",
+      "release_date": "2025-09-04",
+      "genres": [
+        {
+          "id": 1,
+          "name": "剧情"
+        },
+        {
+          "id": 2,
+          "name": "爱情"
+        }
+      ],
+      "directors": [
+        {
+          "id": 1,
+          "name": "皮特·欧斯"
+        }
+      ],
+      "actors": [
+        {
+          "id": 1,
+          "name": "查莉XCX"
+        },
+        {
+          "id": 2,
+          "name": "伦娜·戈拉"
+        },
+        {
+          "id": 3,
+          "name": "威尔·马登"
+        }
+      ],
+      "countries": [],
+      "languages": [],
+      "aka": [],
+      "imdb_id": null,
+      "poster_path": "posters/douban/movie_cn/37065411.jpg",
+      "douban_rating": "6.5",
+      "douban_link_google": "https://movie.douban.com/subject/37065411/",
+      "douban_link_verified": true,
+      "overview": "",
+      "durations": [],
+      "release_windows": [],
+      "rating_count": 263,
+      "rating_star_count": 3.5,
+      "type": "movie"
+    },
+    {
       "id": 37446165,
       "title": "末路同途",
       "original_title": "En el camino",
@@ -53115,7 +53220,7 @@
       "overview": "",
       "durations": [],
       "release_windows": [],
-      "rating_count": 276,
+      "rating_count": 277,
       "rating_star_count": 3,
       "type": "movie"
     },

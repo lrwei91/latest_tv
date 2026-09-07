@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "last_updated": "2026-09-06T22:01:08.923231+00:00",
+    "last_updated": "2026-09-07T12:11:53.186Z",
     "version": "2.0.0",
     "update_log": [
       {
-        "time": "2026-09-06T12:11:24.248Z",
-        "summary": "已同步国产剧数据（complete）：301 条"
+        "time": "2026-09-07T12:11:53.186Z",
+        "summary": "已同步国产剧数据（complete）：303 条"
       }
     ],
     "source": "douban+bilibili",
@@ -13,31 +13,329 @@
       {
         "slug": "tv_domestic",
         "source": "douban",
-        "count": 44,
+        "count": 43,
         "fetch_error": null
       },
       {
         "slug": "tv_hot",
         "source": "douban",
-        "count": 49,
+        "count": 50,
         "fetch_error": null
       },
       {
         "slug": "bilibili_up_229864363",
         "source": "bilibili",
         "count": 0,
-        "fetch_error": "请求过于频繁，请稍后再试"
+        "fetch_error": "Bilibili trailer request failed (412)"
       },
       {
         "slug": "bilibili_search_from_catalog",
         "source": "bilibili",
-        "count": 9,
+        "count": 11,
         "fetch_error": null
       }
     ],
-    "total_items": 301
+    "total_items": 303
   },
   "shows": [
+    {
+      "id": 37855452,
+      "name": "猎罪现场",
+      "original_name": "猎罪现场",
+      "imdb_id": null,
+      "genres": [
+        {
+          "id": 1,
+          "name": "悬疑"
+        },
+        {
+          "id": 2,
+          "name": "犯罪"
+        }
+      ],
+      "networks": [
+        {
+          "id": 1,
+          "name": "优酷视频",
+          "logo_path": "https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
+        }
+      ],
+      "directors": [
+        {
+          "id": 1,
+          "name": "麦浩邦"
+        }
+      ],
+      "actors": [
+        {
+          "id": 1,
+          "name": "郑晓宁"
+        },
+        {
+          "id": 2,
+          "name": "黄俊捷"
+        },
+        {
+          "id": 3,
+          "name": "张冬"
+        },
+        {
+          "id": 4,
+          "name": "戴萌"
+        },
+        {
+          "id": 5,
+          "name": "鲍大志"
+        },
+        {
+          "id": 6,
+          "name": "杜建桥"
+        },
+        {
+          "id": 7,
+          "name": "冯旭"
+        },
+        {
+          "id": 8,
+          "name": "草莓青"
+        },
+        {
+          "id": 9,
+          "name": "郭方舟"
+        },
+        {
+          "id": 10,
+          "name": "康轩"
+        },
+        {
+          "id": 11,
+          "name": "文东俊"
+        },
+        {
+          "id": 12,
+          "name": "高子霖"
+        },
+        {
+          "id": 13,
+          "name": "魏英琪"
+        },
+        {
+          "id": 14,
+          "name": "管月寒"
+        },
+        {
+          "id": 15,
+          "name": "宋涞"
+        },
+        {
+          "id": 16,
+          "name": "袁宝宝"
+        },
+        {
+          "id": 17,
+          "name": "刘初洝"
+        },
+        {
+          "id": 18,
+          "name": "杨大川"
+        },
+        {
+          "id": 19,
+          "name": "沈鑫"
+        },
+        {
+          "id": 20,
+          "name": "王春成"
+        },
+        {
+          "id": 21,
+          "name": "胡汀洋"
+        },
+        {
+          "id": 22,
+          "name": "彭渤"
+        },
+        {
+          "id": 23,
+          "name": "高文峰"
+        }
+      ],
+      "countries": [
+        "中国大陆"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "aka": [
+        "Fragments of Truth"
+      ],
+      "homepage": null,
+      "popularity": null,
+      "number_of_seasons": 1,
+      "number_of_episodes": 6,
+      "first_air_date": "2026-09-07",
+      "last_air_date": "2026-09-07",
+      "in_production": true,
+      "status": "更新至6集",
+      "episodes_info": "更新至6集",
+      "adult": false,
+      "poster_path": "posters/douban/tv_cn/37855452.jpg",
+      "backdrop_path": null,
+      "overview": "双亲早亡的少年韩宁（黄俊捷 饰）因姐姐遭绑架遇害，立志从警，凭过人天赋追凶查案，守护正义与生命。",
+      "rating_count": null,
+      "rating_star_count": null,
+      "seasons": [
+        {
+          "name": "",
+          "season_number": 1,
+          "id": 37855452,
+          "air_date": "2026-09-07",
+          "episode_count": 6,
+          "vote_average": 0,
+          "poster_path": "posters/douban/tv_cn/37855452.jpg",
+          "douban_rating": null,
+          "douban_link_google": "https://movie.douban.com/subject/37855452/",
+          "overview": "双亲早亡的少年韩宁（黄俊捷 饰）因姐姐遭绑架遇害，立志从警，凭过人天赋追凶查案，守护正义与生命。",
+          "douban_link_verified": true
+        }
+      ]
+    },
+    {
+      "id": 36314809,
+      "name": "交锋",
+      "original_name": "交锋",
+      "imdb_id": null,
+      "genres": [
+        {
+          "id": 1,
+          "name": "剧情"
+        }
+      ],
+      "networks": [
+        {
+          "id": 1,
+          "name": "腾讯视频",
+          "logo_path": "https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png"
+        },
+        {
+          "id": 2,
+          "name": "咪咕视频",
+          "logo_path": "https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png"
+        }
+      ],
+      "directors": [
+        {
+          "id": 1,
+          "name": "姚晓峰"
+        }
+      ],
+      "actors": [
+        {
+          "id": 1,
+          "name": "王凯"
+        },
+        {
+          "id": 2,
+          "name": "周依然"
+        },
+        {
+          "id": 3,
+          "name": "欧豪"
+        },
+        {
+          "id": 4,
+          "name": "彭昱畅"
+        },
+        {
+          "id": 5,
+          "name": "成泰燊"
+        },
+        {
+          "id": 6,
+          "name": "齐欢"
+        },
+        {
+          "id": 7,
+          "name": "邱天"
+        },
+        {
+          "id": 8,
+          "name": "吴启华"
+        },
+        {
+          "id": 9,
+          "name": "吴越"
+        },
+        {
+          "id": 10,
+          "name": "岳旸"
+        },
+        {
+          "id": 11,
+          "name": "高鑫"
+        },
+        {
+          "id": 12,
+          "name": "高捷"
+        },
+        {
+          "id": 13,
+          "name": "祖峰"
+        },
+        {
+          "id": 14,
+          "name": "董勇"
+        }
+      ],
+      "countries": [
+        "中国大陆"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "aka": [],
+      "homepage": null,
+      "popularity": null,
+      "number_of_seasons": 1,
+      "number_of_episodes": 6,
+      "first_air_date": "2026-09-06",
+      "last_air_date": "2026-09-06",
+      "in_production": true,
+      "status": "更新至6集",
+      "episodes_info": "更新至6集",
+      "adult": false,
+      "poster_path": "posters/douban/tv_cn/36314809.jpg",
+      "backdrop_path": null,
+      "overview": "故事由一宗世纪之交的泄密大案而起，扣动两岸局势脉搏的同时，还掩藏着一场境外势力与我方在隐蔽战线上的针锋较量。上世纪九十年代末，闵中市国家安全局一对性格迥异的师徒，因机缘巧合的命运安排，为了共同的使命与信仰并肩作战。他们联手挫败了各种阴谋，也与敌手在横跨二十年的命运长河里 不断纠缠。当时间流转，新世纪的潮流剧变席卷而来，国家安全局势攻防易势，隐蔽战线上的较量却不止不休。在一次次关乎人性的考验中，这三人的命运关系因不同抉择，在岁月洗礼中悄然改变着……",
+      "rating_count": null,
+      "rating_star_count": null,
+      "seasons": [
+        {
+          "name": "",
+          "season_number": 1,
+          "id": 36314809,
+          "air_date": "2026-09-06",
+          "episode_count": 6,
+          "vote_average": 0,
+          "poster_path": "posters/douban/tv_cn/36314809.jpg",
+          "douban_rating": null,
+          "douban_link_google": "https://movie.douban.com/subject/36314809/",
+          "overview": "故事由一宗世纪之交的泄密大案而起，扣动两岸局势脉搏的同时，还掩藏着一场境外势力与我方在隐蔽战线上的针锋较量。上世纪九十年代末，闵中市国家安全局一对性格迥异的师徒，因机缘巧合的命运安排，为了共同的使命与信仰并肩作战。他们联手挫败了各种阴谋，也与敌手在横跨二十年的命运长河里 不断纠缠。当时间流转，新世纪的潮流剧变席卷而来，国家安全局势攻防易势，隐蔽战线上的较量却不止不休。在一次次关乎人性的考验中，这三人的命运关系因不同抉择，在岁月洗礼中悄然改变着……",
+          "douban_link_verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "source": "bilibili",
+          "title": "新剧《<em class=\"keyword\">交锋</em>》定档，王凯/周依然/欧豪/彭昱畅 等主演，将于9月6日播出",
+          "bvid": "BV1kStT6FEGK",
+          "url": "https://www.bilibili.com/video/BV1kStT6FEGK",
+          "embedUrl": "https://player.bilibili.com/player.html?bvid=BV1kStT6FEGK&page=1&qn=64&high_quality=1",
+          "cover": "https://i0.hdslb.com/bfs/archive/c28d9d63dbe4473fd3eded30cc275fca9e70b686.jpg",
+          "publishedAt": "2026-09-01T02:45:01.000Z"
+        }
+      ]
+    },
     {
       "id": 37233336,
       "name": "生逢其时",
@@ -115,12 +413,12 @@
       "homepage": null,
       "popularity": null,
       "number_of_seasons": 1,
-      "number_of_episodes": 7,
+      "number_of_episodes": 8,
       "first_air_date": "2026-09-03",
       "last_air_date": "2026-09-03",
       "in_production": true,
-      "status": "更新至7集",
-      "episodes_info": "更新至7集",
+      "status": "更新至8集",
+      "episodes_info": "更新至8集",
       "adult": false,
       "poster_path": "posters/douban/tv_cn/37233336.jpg",
       "backdrop_path": null,
@@ -133,7 +431,7 @@
           "season_number": 1,
           "id": 37233336,
           "air_date": "2026-09-03",
-          "episode_count": 7,
+          "episode_count": 8,
           "vote_average": 0,
           "poster_path": "posters/douban/tv_cn/37233336.jpg",
           "douban_rating": null,
@@ -533,7 +831,7 @@
       "homepage": null,
       "popularity": null,
       "number_of_seasons": 1,
-      "number_of_episodes": 9,
+      "number_of_episodes": 12,
       "first_air_date": "2026-09-01",
       "last_air_date": "2026-09-01",
       "in_production": true,
@@ -551,7 +849,7 @@
           "season_number": 1,
           "id": 26268495,
           "air_date": "2026-09-01",
-          "episode_count": 9,
+          "episode_count": 12,
           "vote_average": 0,
           "poster_path": "posters/douban/tv_cn/26268495.jpg",
           "douban_rating": null,
@@ -891,12 +1189,12 @@
       "homepage": null,
       "popularity": null,
       "number_of_seasons": 1,
-      "number_of_episodes": 12,
+      "number_of_episodes": 14,
       "first_air_date": "2026-08-31",
       "last_air_date": "2026-08-31",
       "in_production": true,
-      "status": "更新至12集",
-      "episodes_info": "更新至12集",
+      "status": "更新至14集",
+      "episodes_info": "更新至14集",
       "adult": false,
       "poster_path": "posters/douban/tv_cn/37172262.jpg",
       "backdrop_path": null,
@@ -909,7 +1207,7 @@
           "season_number": 1,
           "id": 37172262,
           "air_date": "2026-08-31",
-          "episode_count": 12,
+          "episode_count": 14,
           "vote_average": 0,
           "poster_path": "posters/douban/tv_cn/37172262.jpg",
           "douban_rating": null,
@@ -1073,12 +1371,12 @@
       "homepage": null,
       "popularity": null,
       "number_of_seasons": 1,
-      "number_of_episodes": 11,
+      "number_of_episodes": 15,
       "first_air_date": "2026-08-31",
       "last_air_date": "2026-08-31",
-      "in_production": true,
-      "status": "更新至11集",
-      "episodes_info": "更新至11集",
+      "in_production": false,
+      "status": "15集全",
+      "episodes_info": "15集全",
       "adult": false,
       "poster_path": "posters/douban/tv_cn/36448068.jpg",
       "backdrop_path": null,
@@ -1091,7 +1389,7 @@
           "season_number": 1,
           "id": 36448068,
           "air_date": "2026-08-31",
-          "episode_count": 11,
+          "episode_count": 15,
           "vote_average": 0,
           "poster_path": "posters/douban/tv_cn/36448068.jpg",
           "douban_rating": null,
@@ -1276,12 +1574,12 @@
       "homepage": null,
       "popularity": null,
       "number_of_seasons": 1,
-      "number_of_episodes": 18,
+      "number_of_episodes": 19,
       "first_air_date": "2026-08-26",
       "last_air_date": "2026-08-26",
       "in_production": true,
-      "status": "更新至18集",
-      "episodes_info": "更新至18集",
+      "status": "更新至19集",
+      "episodes_info": "更新至19集",
       "adult": false,
       "poster_path": "posters/douban/tv_cn/36660844.jpg",
       "backdrop_path": null,
@@ -1294,7 +1592,7 @@
           "season_number": 1,
           "id": 36660844,
           "air_date": "2026-08-26",
-          "episode_count": 18,
+          "episode_count": 19,
           "vote_average": 0,
           "poster_path": "posters/douban/tv_cn/36660844.jpg",
           "douban_rating": null,
@@ -2414,9 +2712,9 @@
       "number_of_episodes": 18,
       "first_air_date": "2026-08-19",
       "last_air_date": "2026-08-19",
-      "in_production": false,
-      "status": "30集全",
-      "episodes_info": "30集全",
+      "in_production": true,
+      "status": "更新至18集",
+      "episodes_info": "更新至18集",
       "adult": false,
       "poster_path": "posters/douban/tv_cn/36406417.jpg",
       "backdrop_path": null,
@@ -2553,9 +2851,9 @@
       "number_of_episodes": 18,
       "first_air_date": "2026-08-17",
       "last_air_date": "2026-08-17",
-      "in_production": false,
-      "status": "23集全",
-      "episodes_info": "23集全",
+      "in_production": true,
+      "status": "更新至18集",
+      "episodes_info": "更新至18集",
       "adult": false,
       "poster_path": "posters/douban/tv_cn/35653123.jpg",
       "backdrop_path": null,
@@ -2759,13 +3057,13 @@
       "networks": [
         {
           "id": 1,
-          "name": "爱奇艺",
-          "logo_path": "https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+          "name": "哔哩哔哩",
+          "logo_path": "https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
         },
         {
           "id": 2,
-          "name": "哔哩哔哩",
-          "logo_path": "https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+          "name": "爱奇艺",
+          "logo_path": "https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
         }
       ],
       "directors": [
@@ -2854,23 +3152,23 @@
       "networks": [
         {
           "id": 1,
-          "name": "咪咕视频",
-          "logo_path": "https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png"
-        },
-        {
-          "id": 2,
           "name": "腾讯视频",
           "logo_path": "https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png"
         },
         {
+          "id": 2,
+          "name": "咪咕视频",
+          "logo_path": "https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png"
+        },
+        {
           "id": 3,
-          "name": "爱奇艺",
-          "logo_path": "https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+          "name": "哔哩哔哩",
+          "logo_path": "https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
         },
         {
           "id": 4,
-          "name": "哔哩哔哩",
-          "logo_path": "https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+          "name": "爱奇艺",
+          "logo_path": "https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
         }
       ],
       "directors": [
@@ -3099,12 +3397,12 @@
       "homepage": null,
       "popularity": null,
       "number_of_seasons": 1,
-      "number_of_episodes": 4,
+      "number_of_episodes": 5,
       "first_air_date": "2026-08-12",
       "last_air_date": "2026-08-12",
-      "in_production": true,
-      "status": "更新至4集",
-      "episodes_info": "更新至4集",
+      "in_production": false,
+      "status": "5集全",
+      "episodes_info": "5集全",
       "adult": false,
       "poster_path": "posters/douban/tv_cn/38585277.jpg",
       "backdrop_path": null,
@@ -3117,7 +3415,7 @@
           "season_number": 1,
           "id": 38585277,
           "air_date": "2026-08-12",
-          "episode_count": 4,
+          "episode_count": 5,
           "vote_average": 0,
           "poster_path": "posters/douban/tv_cn/38585277.jpg",
           "douban_rating": null,
@@ -3401,9 +3699,9 @@
       "number_of_episodes": 31,
       "first_air_date": "2026-08-09",
       "last_air_date": "2026-08-09",
-      "in_production": false,
-      "status": "36集全",
-      "episodes_info": "36集全",
+      "in_production": true,
+      "status": "更新至31集",
+      "episodes_info": "更新至31集",
       "adult": false,
       "poster_path": "posters/douban/tv_cn/36810153.jpg",
       "backdrop_path": null,

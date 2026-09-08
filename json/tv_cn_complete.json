@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "last_updated": "2026-09-07T12:11:53.186Z",
+    "last_updated": "2026-09-08T12:10:44.258Z",
     "version": "2.0.0",
     "update_log": [
       {
-        "time": "2026-09-07T12:11:53.186Z",
+        "time": "2026-09-08T12:10:44.258Z",
         "summary": "已同步国产剧数据（complete）：303 条"
       }
     ],
@@ -13,7 +13,7 @@
       {
         "slug": "tv_domestic",
         "source": "douban",
-        "count": 43,
+        "count": 44,
         "fetch_error": null
       },
       {
@@ -31,7 +31,7 @@
       {
         "slug": "bilibili_search_from_catalog",
         "source": "bilibili",
-        "count": 11,
+        "count": 12,
         "fetch_error": null
       }
     ],
@@ -1049,6 +1049,17 @@
           "overview": "九十年代初，东安市，重案六组成立前夕。省厅刑警曾克强因专案调入地方重案组，接手牺牲的战友刘华生前未竟的调查。大曾背负误解，一面融入新团队，一面暗中追查真相。东安市的犯罪势力暗流涌动，赵氏集团少东家赵彬以采砂船走私起家，贿赂官员，暴力垄断，为掩盖罪行接连杀害知情人。大曾以卧底姿态周旋，季洁以正面突破反制对方挑衅。在与赵氏集团周旋的过程中，六组成员接连并肩破获了连环爆炸复仇案，河道碎尸烹煮案，矿难骗保诈尸案，仙人跳杀人案，幽灵船惨案，神秘美女公路劫车案等奇案。",
           "douban_link_verified": true
         }
+      ],
+      "trailers": [
+        {
+          "source": "bilibili",
+          "title": "新剧《<em class=\"keyword\">重案六组</em>：<em class=\"keyword\">消失的警号</em>》定档，张一山/李沐宸/郭晓东 等主演，将于8月31日播出",
+          "bvid": "BV1pfhF6SE5t",
+          "url": "https://www.bilibili.com/video/BV1pfhF6SE5t",
+          "embedUrl": "https://player.bilibili.com/player.html?bvid=BV1pfhF6SE5t&page=1&qn=64&high_quality=1",
+          "cover": "https://i0.hdslb.com/bfs/archive/e16d4100606c1a56607f4524c774f5e787c3bd4a.jpg",
+          "publishedAt": "2026-08-27T03:32:41.000Z"
+        }
       ]
     },
     {
@@ -1219,7 +1230,7 @@
       "trailers": [
         {
           "source": "bilibili",
-          "title": "新剧《飞到<em class=\"keyword\">我心上</em>》定档，魏哲鸣/刘些宁 等主演，将于8月31日播出",
+          "title": "新剧《<em class=\"keyword\">飞到我心上</em>》定档，魏哲鸣/刘些宁 等主演，将于8月31日播出",
           "bvid": "BV1RRhg6PEj8",
           "url": "https://www.bilibili.com/video/BV1RRhg6PEj8",
           "embedUrl": "https://player.bilibili.com/player.html?bvid=BV1RRhg6PEj8&page=1&qn=64&high_quality=1",
@@ -8248,92 +8259,6 @@
       ]
     },
     {
-      "id": 36466246,
-      "name": "灿如繁星",
-      "original_name": "灿如繁星",
-      "imdb_id": null,
-      "genres": [
-        {
-          "id": 1,
-          "name": "剧情"
-        },
-        {
-          "id": 2,
-          "name": "运动"
-        }
-      ],
-      "networks": [
-        {
-          "id": 1,
-          "name": "爱奇艺",
-          "logo_path": "https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
-        }
-      ],
-      "directors": [
-        {
-          "id": 1,
-          "name": "李青蓉"
-        }
-      ],
-      "actors": [
-        {
-          "id": 1,
-          "name": "虞书欣"
-        },
-        {
-          "id": 2,
-          "name": "陈靖可"
-        },
-        {
-          "id": 3,
-          "name": "谢可寅"
-        },
-        {
-          "id": 4,
-          "name": "马伯骞"
-        }
-      ],
-      "countries": [
-        "中国大陆"
-      ],
-      "languages": [
-        "汉语普通话"
-      ],
-      "aka": [
-        "狭路"
-      ],
-      "homepage": null,
-      "popularity": null,
-      "number_of_seasons": 1,
-      "number_of_episodes": null,
-      "first_air_date": "2026-07-05",
-      "last_air_date": "2026-07-05",
-      "in_production": false,
-      "status": "",
-      "episodes_info": null,
-      "adult": false,
-      "poster_path": "posters/douban/tv_cn/36466246.jpg",
-      "backdrop_path": null,
-      "overview": "该剧改编自晋江文学城作者长洱的同名青春热血竞技小说。\n博士生林晚星突然回到老家，进入宏景八中，做起体育器材保管员工作。王法放弃英国足球俱乐部教练工作回到宏景，成为了林晚星的神秘租客。林晚星被要求带领已解散的足球队参加联赛，不出意料被打得落花流水，多亏王法指教，才磕磕绊绊赢下比赛。此后，林晚星劝说王法担任教练、凑齐队员、调和队内矛盾。一切看似走向正轨时，王法、林晚星的旧日伤疤相继被揭开，两人皆选择逃避，但最终还是互相谅解。孩子们的球赛决赛和高考逐步临近，二人联手帮助孩子们重拾对足球的热爱，努力冲刺高考，走上追寻梦想的道路。",
-      "rating_count": 77452,
-      "rating_star_count": 3.5,
-      "seasons": [
-        {
-          "name": "",
-          "season_number": 1,
-          "id": 36466246,
-          "air_date": "2026-07-05",
-          "episode_count": null,
-          "vote_average": 6.8,
-          "poster_path": "posters/douban/tv_cn/36466246.jpg",
-          "douban_rating": "6.8",
-          "douban_link_google": "https://movie.douban.com/subject/36466246/",
-          "overview": "该剧改编自晋江文学城作者长洱的同名青春热血竞技小说。\n博士生林晚星突然回到老家，进入宏景八中，做起体育器材保管员工作。王法放弃英国足球俱乐部教练工作回到宏景，成为了林晚星的神秘租客。林晚星被要求带领已解散的足球队参加联赛，不出意料被打得落花流水，多亏王法指教，才磕磕绊绊赢下比赛。此后，林晚星劝说王法担任教练、凑齐队员、调和队内矛盾。一切看似走向正轨时，王法、林晚星的旧日伤疤相继被揭开，两人皆选择逃避，但最终还是互相谅解。孩子们的球赛决赛和高考逐步临近，二人联手帮助孩子们重拾对足球的热爱，努力冲刺高考，走上追寻梦想的道路。",
-          "douban_link_verified": true
-        }
-      ]
-    },
-    {
       "id": 37247570,
       "name": "京城奇探",
       "original_name": "京城奇探",
@@ -8453,6 +8378,92 @@
           "douban_rating": "6.8",
           "douban_link_google": "https://movie.douban.com/subject/37247570/",
           "overview": "京城纨绔赵少商为帮姐姐探查夫家怪事，结识了留洋归来的冷面警官元鸿。两人从针锋相对到默契搭档，一路追查迷案，也一步步揭开元鸿母亲离世之谜。随着调查深入，一桩危及民族利益的走私阴谋浮出水面。玩世不恭的赵少商与执念深重的元鸿，在抽丝剥茧中直面真相，也直面各自内心的选择……",
+          "douban_link_verified": true
+        }
+      ]
+    },
+    {
+      "id": 36466246,
+      "name": "灿如繁星",
+      "original_name": "灿如繁星",
+      "imdb_id": null,
+      "genres": [
+        {
+          "id": 1,
+          "name": "剧情"
+        },
+        {
+          "id": 2,
+          "name": "运动"
+        }
+      ],
+      "networks": [
+        {
+          "id": 1,
+          "name": "爱奇艺",
+          "logo_path": "https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+        }
+      ],
+      "directors": [
+        {
+          "id": 1,
+          "name": "李青蓉"
+        }
+      ],
+      "actors": [
+        {
+          "id": 1,
+          "name": "虞书欣"
+        },
+        {
+          "id": 2,
+          "name": "陈靖可"
+        },
+        {
+          "id": 3,
+          "name": "谢可寅"
+        },
+        {
+          "id": 4,
+          "name": "马伯骞"
+        }
+      ],
+      "countries": [
+        "中国大陆"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "aka": [
+        "狭路"
+      ],
+      "homepage": null,
+      "popularity": null,
+      "number_of_seasons": 1,
+      "number_of_episodes": null,
+      "first_air_date": "2026-07-05",
+      "last_air_date": "2026-07-05",
+      "in_production": false,
+      "status": "",
+      "episodes_info": null,
+      "adult": false,
+      "poster_path": "posters/douban/tv_cn/36466246.jpg",
+      "backdrop_path": null,
+      "overview": "该剧改编自晋江文学城作者长洱的同名青春热血竞技小说。\n博士生林晚星突然回到老家，进入宏景八中，做起体育器材保管员工作。王法放弃英国足球俱乐部教练工作回到宏景，成为了林晚星的神秘租客。林晚星被要求带领已解散的足球队参加联赛，不出意料被打得落花流水，多亏王法指教，才磕磕绊绊赢下比赛。此后，林晚星劝说王法担任教练、凑齐队员、调和队内矛盾。一切看似走向正轨时，王法、林晚星的旧日伤疤相继被揭开，两人皆选择逃避，但最终还是互相谅解。孩子们的球赛决赛和高考逐步临近，二人联手帮助孩子们重拾对足球的热爱，努力冲刺高考，走上追寻梦想的道路。",
+      "rating_count": 77452,
+      "rating_star_count": 3.5,
+      "seasons": [
+        {
+          "name": "",
+          "season_number": 1,
+          "id": 36466246,
+          "air_date": "2026-07-05",
+          "episode_count": null,
+          "vote_average": 6.8,
+          "poster_path": "posters/douban/tv_cn/36466246.jpg",
+          "douban_rating": "6.8",
+          "douban_link_google": "https://movie.douban.com/subject/36466246/",
+          "overview": "该剧改编自晋江文学城作者长洱的同名青春热血竞技小说。\n博士生林晚星突然回到老家，进入宏景八中，做起体育器材保管员工作。王法放弃英国足球俱乐部教练工作回到宏景，成为了林晚星的神秘租客。林晚星被要求带领已解散的足球队参加联赛，不出意料被打得落花流水，多亏王法指教，才磕磕绊绊赢下比赛。此后，林晚星劝说王法担任教练、凑齐队员、调和队内矛盾。一切看似走向正轨时，王法、林晚星的旧日伤疤相继被揭开，两人皆选择逃避，但最终还是互相谅解。孩子们的球赛决赛和高考逐步临近，二人联手帮助孩子们重拾对足球的热爱，努力冲刺高考，走上追寻梦想的道路。",
           "douban_link_verified": true
         }
       ]

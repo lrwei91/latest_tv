@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "last_updated": "2026-09-07T12:12:16.033Z",
+    "last_updated": "2026-09-08T12:11:08.988Z",
     "version": "2.0.0",
     "update_log": [
       {
-        "time": "2026-09-07T12:12:16.033Z",
-        "summary": "已同步院线电影数据（complete）：554 条"
+        "time": "2026-09-08T12:11:08.988Z",
+        "summary": "已同步院线电影数据（complete）：566 条"
       }
     ],
     "source": "douban+maoyan+bilibili",
@@ -13,13 +13,13 @@
       {
         "slug": "movie_showing",
         "source": "douban",
-        "count": 33,
+        "count": 34,
         "fetch_error": null
       },
       {
         "slug": "movie_soon",
         "source": "douban",
-        "count": 15,
+        "count": 16,
         "fetch_error": null
       },
       {
@@ -41,7 +41,7 @@
         "fetch_error": null
       }
     ],
-    "total_items": 554
+    "total_items": 566
   },
   "movies": [
     {
@@ -478,6 +478,64 @@
       "overview": "影片以诙谐幽默的方式描述几位小人物在充满挑战的爱情、职场、生活中，一路披荆斩棘，最终赢得了自己的精彩人生的故事。",
       "durations": [
         "100分钟"
+      ],
+      "release_windows": [],
+      "rating_count": null,
+      "rating_star_count": null,
+      "type": "movie"
+    },
+    {
+      "id": 37667170,
+      "title": "凝脂手",
+      "original_title": "凝脂手",
+      "release_date": "2026-09-25",
+      "genres": [
+        {
+          "id": 1,
+          "name": "剧情"
+        }
+      ],
+      "directors": [
+        {
+          "id": 1,
+          "name": "胡玫"
+        }
+      ],
+      "actors": [
+        {
+          "id": 1,
+          "name": "焦俊艳"
+        },
+        {
+          "id": 2,
+          "name": "张天阳"
+        },
+        {
+          "id": 3,
+          "name": "郭柯宇"
+        },
+        {
+          "id": 4,
+          "name": "黄灿灿"
+        }
+      ],
+      "countries": [
+        "中国大陆"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "aka": [
+        "石牌镇的春天"
+      ],
+      "imdb_id": null,
+      "poster_path": "posters/douban/movie_cn/37667170.jpg",
+      "douban_rating": null,
+      "douban_link_google": "https://movie.douban.com/subject/37667170/",
+      "douban_link_verified": true,
+      "overview": "七十年代末，素有“豆腐之乡”之称的石牌古镇伴随改革开放的春风，石牌豆腐人怀揣着希望与梦想从这里走向全国，走向世界，让古老的豆腐焕发青春，成为舌尖上的美味佳肴，也为石牌创造了巨大财富。",
+      "durations": [
+        "117分钟"
       ],
       "release_windows": [],
       "rating_count": null,
@@ -1920,6 +1978,125 @@
       "type": "movie"
     },
     {
+      "id": 36439868,
+      "title": "求救信号",
+      "original_title": "Mayday",
+      "release_date": "2026-09-04",
+      "genres": [
+        {
+          "id": 1,
+          "name": "喜剧"
+        },
+        {
+          "id": 2,
+          "name": "动作"
+        },
+        {
+          "id": 3,
+          "name": "惊悚"
+        },
+        {
+          "id": 4,
+          "name": "冒险"
+        }
+      ],
+      "directors": [
+        {
+          "id": 1,
+          "name": "约翰·弗朗西斯·戴利"
+        },
+        {
+          "id": 2,
+          "name": "乔纳森·戈尔茨坦"
+        }
+      ],
+      "actors": [
+        {
+          "id": 1,
+          "name": "瑞安·雷诺兹"
+        },
+        {
+          "id": 2,
+          "name": "肯尼思·布拉纳"
+        },
+        {
+          "id": 3,
+          "name": "马辛·多洛辛斯基"
+        },
+        {
+          "id": 4,
+          "name": "玛丽亚·巴卡洛娃"
+        },
+        {
+          "id": 5,
+          "name": "大卫·摩斯"
+        },
+        {
+          "id": 6,
+          "name": "克拉克·约翰森"
+        },
+        {
+          "id": 7,
+          "name": "温迪·古逊"
+        },
+        {
+          "id": 8,
+          "name": "路易斯·坎瑟米"
+        },
+        {
+          "id": 9,
+          "name": "约什·汉密尔顿"
+        },
+        {
+          "id": 10,
+          "name": "小亚历克斯·马里亚里"
+        },
+        {
+          "id": 11,
+          "name": "阿尔登·阿代尔"
+        },
+        {
+          "id": 12,
+          "name": "洛弗尔·亚当斯-格雷"
+        },
+        {
+          "id": 13,
+          "name": "约翰·弗朗西斯·戴利"
+        },
+        {
+          "id": 14,
+          "name": "罗伯特·克鲁克斯"
+        },
+        {
+          "id": 15,
+          "name": "洛里·奥多姆"
+        }
+      ],
+      "countries": [
+        "美国"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "aka": [
+        "求救暗号",
+        "碍的迫降"
+      ],
+      "imdb_id": null,
+      "poster_path": "posters/douban/movie_cn/36439868.jpg",
+      "douban_rating": "7.0",
+      "douban_link_google": "https://movie.douban.com/subject/36439868/",
+      "douban_link_verified": true,
+      "overview": "在冷战高峰期，自视甚高的美国海军飞行员Troy 'Assassin' Kelly上尉飞到苏联去执行秘密任务，然而任务崩了，他一个人被困在敌后方，被性情暴躁、喜好美国文化的前克格勃特工Nikolai Ustinov发现。Troy以为自己完了，但是他们之间出人意料的结盟，是否会让Troy获救，以及发展出一段双方都没想到的情谊？",
+      "durations": [
+        "110分钟"
+      ],
+      "release_windows": [],
+      "rating_count": 3614,
+      "rating_star_count": 3.5,
+      "type": "movie"
+    },
+    {
       "id": 38188824,
       "title": "正义必胜",
       "original_title": "正义必胜",
@@ -1951,6 +2128,205 @@
       "release_windows": [],
       "rating_count": null,
       "rating_star_count": null,
+      "type": "movie"
+    },
+    {
+      "id": 37200003,
+      "title": "逃亡者",
+      "original_title": "The Runner",
+      "release_date": "2026-09-02",
+      "genres": [
+        {
+          "id": 1,
+          "name": "动作"
+        },
+        {
+          "id": 2,
+          "name": "惊悚"
+        }
+      ],
+      "directors": [
+        {
+          "id": 1,
+          "name": "凯文·麦克唐纳"
+        }
+      ],
+      "actors": [
+        {
+          "id": 1,
+          "name": "盖尔·加朵"
+        },
+        {
+          "id": 2,
+          "name": "戴米恩·路易斯"
+        },
+        {
+          "id": 3,
+          "name": "皮埃尔·伯格曼"
+        },
+        {
+          "id": 4,
+          "name": "黄米莉"
+        },
+        {
+          "id": 5,
+          "name": "Stevie Binns"
+        },
+        {
+          "id": 6,
+          "name": "Ruby Valentino"
+        },
+        {
+          "id": 7,
+          "name": "肯顿·劳埃德·摩根"
+        },
+        {
+          "id": 8,
+          "name": "蒂利亚纳·布克丽瓦"
+        },
+        {
+          "id": 9,
+          "name": "Aaron Gill"
+        },
+        {
+          "id": 10,
+          "name": "Caroline Glass"
+        },
+        {
+          "id": 11,
+          "name": "Christopher Moore"
+        },
+        {
+          "id": 12,
+          "name": "杰西卡·惠心·汤"
+        },
+        {
+          "id": 13,
+          "name": "Ross Forder"
+        },
+        {
+          "id": 14,
+          "name": "罗伯特·史密斯"
+        },
+        {
+          "id": 15,
+          "name": "埃尔德·费尔南德斯"
+        },
+        {
+          "id": 16,
+          "name": "Sara Willats"
+        }
+      ],
+      "countries": [
+        "英国"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "aka": [
+        "疾速狂奔",
+        "生死奔救",
+        "生死时限"
+      ],
+      "imdb_id": null,
+      "poster_path": "posters/douban/movie_cn/37200003.jpg",
+      "douban_rating": "5.5",
+      "douban_link_google": "https://movie.douban.com/subject/37200003/",
+      "douban_link_verified": true,
+      "overview": "一位实力雄厚的女律师必须在伦敦四处奔波，一边遵照一位神秘来电者发出的晦涩指令，一边设法救出被绑架的儿子。",
+      "durations": [
+        "85分钟"
+      ],
+      "release_windows": [],
+      "rating_count": 1481,
+      "rating_star_count": 3,
+      "type": "movie"
+    },
+    {
+      "id": 37228730,
+      "title": "恋人们",
+      "original_title": "The Lovers",
+      "release_date": "2026-08-30",
+      "genres": [
+        {
+          "id": 1,
+          "name": "爱情"
+        },
+        {
+          "id": 2,
+          "name": "科幻"
+        },
+        {
+          "id": 3,
+          "name": "动画"
+        },
+        {
+          "id": 4,
+          "name": "惊悚"
+        },
+        {
+          "id": 5,
+          "name": "短片"
+        },
+        {
+          "id": 6,
+          "name": "奇幻"
+        }
+      ],
+      "directors": [
+        {
+          "id": 1,
+          "name": "Alice Mao"
+        },
+        {
+          "id": 2,
+          "name": "Sophia Paez"
+        }
+      ],
+      "actors": [
+        {
+          "id": 1,
+          "name": "道恩·米歇尔·贝内特"
+        },
+        {
+          "id": 2,
+          "name": "Vanille Velasquez"
+        },
+        {
+          "id": 3,
+          "name": "Aife"
+        },
+        {
+          "id": 4,
+          "name": "Vince Deloria"
+        }
+      ],
+      "countries": [
+        "美国"
+      ],
+      "languages": [
+        "菲律宾语"
+      ],
+      "aka": [
+        "恋人们"
+      ],
+      "imdb_id": null,
+      "poster_path": "posters/douban/movie_cn/37228730.jpg",
+      "douban_rating": "7.5",
+      "douban_link_google": "https://movie.douban.com/subject/37228730/",
+      "douban_link_verified": true,
+      "overview": "An animated thriller about the romantic tension between a seafood chef and a siren, set in a dark fantasy Philippines.",
+      "durations": [
+        "12分钟"
+      ],
+      "release_windows": [
+        {
+          "id": "summer",
+          "label": "暑期档"
+        }
+      ],
+      "rating_count": 409,
+      "rating_star_count": 4,
       "type": "movie"
     },
     {
@@ -2438,6 +2814,121 @@
       "type": "movie"
     },
     {
+      "id": 37228429,
+      "title": "耳语者",
+      "original_title": "The Whisper Man",
+      "release_date": "2026-08-28",
+      "genres": [
+        {
+          "id": 1,
+          "name": "剧情"
+        },
+        {
+          "id": 2,
+          "name": "惊悚"
+        },
+        {
+          "id": 3,
+          "name": "犯罪"
+        }
+      ],
+      "directors": [
+        {
+          "id": 1,
+          "name": "詹姆斯·阿什克罗夫特"
+        }
+      ],
+      "actors": [
+        {
+          "id": 1,
+          "name": "哈米什·林克莱特"
+        },
+        {
+          "id": 2,
+          "name": "米歇尔·莫纳汉"
+        },
+        {
+          "id": 3,
+          "name": "罗伯特·德尼罗"
+        },
+        {
+          "id": 4,
+          "name": "亚当·斯科特"
+        },
+        {
+          "id": 5,
+          "name": "迈克尔·基顿"
+        },
+        {
+          "id": 6,
+          "name": "约翰·卡洛·林奇"
+        },
+        {
+          "id": 7,
+          "name": "欧文·提格"
+        },
+        {
+          "id": 8,
+          "name": "雅各布·伯格"
+        },
+        {
+          "id": 9,
+          "name": "威尔·伯瑞"
+        },
+        {
+          "id": 10,
+          "name": "玛瑞娜·卡贝洛"
+        },
+        {
+          "id": 11,
+          "name": "杰弗里·莫厄里"
+        },
+        {
+          "id": 12,
+          "name": "阿克斯顿·卢卡·波尔图"
+        },
+        {
+          "id": 13,
+          "name": "埃里克·斯塔福德"
+        },
+        {
+          "id": 14,
+          "name": "罗伯特·阿伯丁"
+        },
+        {
+          "id": 15,
+          "name": "乔什·邦齐"
+        }
+      ],
+      "countries": [
+        "美国"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "aka": [
+        "耳语人"
+      ],
+      "imdb_id": null,
+      "poster_path": "posters/douban/movie_cn/37228429.jpg",
+      "douban_rating": "5.9",
+      "douban_link_google": "https://movie.douban.com/subject/37228429/",
+      "douban_link_verified": true,
+      "overview": "影片改编自亚历克斯·诺斯所著畅销小说，聚焦一名丧妻的犯罪小说作家在8岁儿子遭到绑架后，向平时关系疏远的退休警探父亲求助，却发现绑架案竟和几十年前一桩犯人已经定罪的连续杀人案有关，而当时的凶手有“耳语者”之称。",
+      "durations": [
+        "111分钟"
+      ],
+      "release_windows": [
+        {
+          "id": "summer",
+          "label": "暑期档"
+        }
+      ],
+      "rating_count": 1727,
+      "rating_star_count": 3,
+      "type": "movie"
+    },
+    {
       "id": 37247652,
       "title": "古村迷宅",
       "original_title": "古村迷宅",
@@ -2516,6 +3007,208 @@
       ],
       "rating_count": null,
       "rating_star_count": null,
+      "type": "movie"
+    },
+    {
+      "id": 37364618,
+      "title": "最后的曙光",
+      "original_title": "The Last Sunrise",
+      "release_date": "2026-08-26",
+      "genres": [
+        {
+          "id": 1,
+          "name": "剧情"
+        },
+        {
+          "id": 2,
+          "name": "爱情"
+        }
+      ],
+      "directors": [
+        {
+          "id": 1,
+          "name": "卡尔森·扬"
+        }
+      ],
+      "actors": [
+        {
+          "id": 1,
+          "name": "Chloé Sweetlove"
+        },
+        {
+          "id": 2,
+          "name": "费尔南多·林德斯"
+        },
+        {
+          "id": 3,
+          "name": "伊娃·朗格利亚"
+        },
+        {
+          "id": 4,
+          "name": "玛雅·瑞菲科"
+        },
+        {
+          "id": 5,
+          "name": "萨布丽娜·巴特利特"
+        },
+        {
+          "id": 6,
+          "name": "莫莉·贝丝·托马斯"
+        },
+        {
+          "id": 7,
+          "name": "安德斯·维伦科索"
+        },
+        {
+          "id": 8,
+          "name": "Razan Nassar"
+        },
+        {
+          "id": 9,
+          "name": "Isabel Dornheim"
+        },
+        {
+          "id": 10,
+          "name": "Stephan Wiks"
+        },
+        {
+          "id": 11,
+          "name": "Alex Peracaula"
+        },
+        {
+          "id": 12,
+          "name": "Ilia Andreev"
+        },
+        {
+          "id": 13,
+          "name": "Félix Maestro"
+        },
+        {
+          "id": 14,
+          "name": "Gerard Laracy"
+        }
+      ],
+      "countries": [
+        "西班牙",
+        "美国"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "aka": [
+        "最后的日出"
+      ],
+      "imdb_id": null,
+      "poster_path": "posters/douban/movie_cn/37364618.jpg",
+      "douban_rating": "5.5",
+      "douban_link_google": "https://movie.douban.com/subject/37364618/",
+      "douban_link_verified": true,
+      "overview": "身患健康隐疾的美国女孩阿玛拉，独自来到西班牙马略卡岛度过夏日假期，本是一场按计划进行的散心之旅，却意外邂逅了魅力十足的当地男子朱利安。两人在海岛的阳光与海浪间迅速坠入爱河，这场突如其来的热烈感情，彻底打乱了她原本的人生规划。随着归期临近，她不得不在内心的情感渴望、家庭的责任羁绊与既定的人生归途之间反复权衡，直面自己的真心与未来。",
+      "durations": [
+        "106分钟"
+      ],
+      "release_windows": [
+        {
+          "id": "summer",
+          "label": "暑期档"
+        }
+      ],
+      "rating_count": 719,
+      "rating_star_count": 3,
+      "type": "movie"
+    },
+    {
+      "id": 37657215,
+      "title": "蝙蝠侠：骑士陨落 第一部：骑士陨落",
+      "original_title": "Batman: Knightfall Part 1: Knightfall",
+      "release_date": "2026-08-25",
+      "genres": [
+        {
+          "id": 1,
+          "name": "剧情"
+        },
+        {
+          "id": 2,
+          "name": "动作"
+        },
+        {
+          "id": 3,
+          "name": "动画"
+        },
+        {
+          "id": 4,
+          "name": "惊悚"
+        },
+        {
+          "id": 5,
+          "name": "犯罪"
+        },
+        {
+          "id": 6,
+          "name": "冒险"
+        }
+      ],
+      "directors": [
+        {
+          "id": 1,
+          "name": "杰夫·瓦斯特"
+        }
+      ],
+      "actors": [
+        {
+          "id": 1,
+          "name": "安松·蒙特"
+        },
+        {
+          "id": 2,
+          "name": "巴勃罗·施瑞博尔"
+        },
+        {
+          "id": 3,
+          "name": "布鲁斯·巴克林纳"
+        },
+        {
+          "id": 4,
+          "name": "巴亚尔多·德·穆古拉"
+        },
+        {
+          "id": 5,
+          "name": "杰克·吉芬"
+        },
+        {
+          "id": 6,
+          "name": "迈克尔·曼多"
+        },
+        {
+          "id": 7,
+          "name": "西蒙·坦普尔曼"
+        }
+      ],
+      "countries": [
+        "美国",
+        "韩国"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "aka": [],
+      "imdb_id": null,
+      "poster_path": "posters/douban/movie_cn/37657215.jpg",
+      "douban_rating": "7.4",
+      "douban_link_google": "https://movie.douban.com/subject/37657215/",
+      "douban_link_verified": true,
+      "overview": "被称为“贝恩”的神秘巨兽只身突破阿卡姆疯人院，将蝙蝠侠的全部宿敌尽数释放到哥谭街头，整座城市瞬间陷入前所未有的犯罪狂潮。蝙蝠侠为了追捕四散的反派，日夜不休地奔波在哥谭的各个角落，精神与体力都被消耗到极限。而这一切，都是贝恩精心策划的棋局——他在暗处冷眼观察，步步紧逼，用连绵不绝的危机一点点消磨披风斗士的意志，一步步将蝙蝠侠推向身心双重崩溃的临界点。",
+      "durations": [
+        "79分钟"
+      ],
+      "release_windows": [
+        {
+          "id": "summer",
+          "label": "暑期档"
+        }
+      ],
+      "rating_count": 898,
+      "rating_star_count": 3.5,
       "type": "movie"
     },
     {
@@ -2711,6 +3404,258 @@
       ],
       "rating_count": null,
       "rating_star_count": null,
+      "type": "movie"
+    },
+    {
+      "id": 38220877,
+      "title": "夜巡毒枭",
+      "original_title": "La Captura",
+      "release_date": "2026-08-21",
+      "genres": [
+        {
+          "id": 1,
+          "name": "动作"
+        },
+        {
+          "id": 2,
+          "name": "犯罪"
+        }
+      ],
+      "directors": [
+        {
+          "id": 1,
+          "name": "Chava Cartas"
+        }
+      ],
+      "actors": [
+        {
+          "id": 1,
+          "name": "阿方索·埃雷拉"
+        },
+        {
+          "id": 2,
+          "name": "诺伊·埃尔南德斯"
+        },
+        {
+          "id": 3,
+          "name": "赫克托·科特思法基斯"
+        },
+        {
+          "id": 4,
+          "name": "Juan Pablo Cruz García"
+        },
+        {
+          "id": 5,
+          "name": "保拉·费尔南德斯"
+        },
+        {
+          "id": 6,
+          "name": "Antonio Fortier"
+        },
+        {
+          "id": 7,
+          "name": "Allan Durell"
+        },
+        {
+          "id": 8,
+          "name": "费尔南多·考特尔"
+        },
+        {
+          "id": 9,
+          "name": "Gerardo Trejoluna"
+        },
+        {
+          "id": 10,
+          "name": "Isaac Bravo"
+        },
+        {
+          "id": 11,
+          "name": "Alejandra Vázquez De León"
+        },
+        {
+          "id": 12,
+          "name": "Regis Arroyo"
+        },
+        {
+          "id": 13,
+          "name": "Santiago Colores"
+        },
+        {
+          "id": 14,
+          "name": "Daniela Torres"
+        },
+        {
+          "id": 15,
+          "name": "贝伦妮丝·玛斯特雷塔"
+        }
+      ],
+      "countries": [
+        "墨西哥"
+      ],
+      "languages": [
+        "西班牙语"
+      ],
+      "aka": [
+        "Facing El Chapo"
+      ],
+      "imdb_id": null,
+      "poster_path": "posters/douban/movie_cn/38220877.jpg",
+      "douban_rating": "6.8",
+      "douban_link_google": "https://movie.douban.com/subject/38220877/",
+      "douban_link_verified": true,
+      "overview": "巡警卡莫纳与罗萨莱斯在日常执勤中拦下一辆被盗车辆，本以为只是普通的治安案件，却意外撞破了全球顶级通缉重犯的行踪。狭小的公路边瞬间变成生死战场，两人毫无准备地被卷入一场远超想象的危机。随着对峙持续升级，罪犯背后盘根错节的犯罪网络逐渐显露，警队内部的利益暗流也随之翻涌。身处绝境的两名警察，既要正面硬刚穷凶极恶的歹徒，也要提防暗处的黑手，在重重陷阱里拼死寻找生机。",
+      "durations": [
+        "91分钟"
+      ],
+      "release_windows": [
+        {
+          "id": "summer",
+          "label": "暑期档"
+        }
+      ],
+      "rating_count": 759,
+      "rating_star_count": 3.5,
+      "type": "movie"
+    },
+    {
+      "id": 27190137,
+      "title": "歪心狼对阵ACME",
+      "original_title": "Coyote v. Acme",
+      "release_date": "2026-08-21",
+      "genres": [
+        {
+          "id": 1,
+          "name": "喜剧"
+        },
+        {
+          "id": 2,
+          "name": "动画"
+        },
+        {
+          "id": 3,
+          "name": "奇幻"
+        },
+        {
+          "id": 4,
+          "name": "冒险"
+        }
+      ],
+      "directors": [
+        {
+          "id": 1,
+          "name": "戴夫·格林"
+        }
+      ],
+      "actors": [
+        {
+          "id": 1,
+          "name": "威尔·福特"
+        },
+        {
+          "id": 2,
+          "name": "约翰·塞纳"
+        },
+        {
+          "id": 3,
+          "name": "拉娜·康多"
+        },
+        {
+          "id": 4,
+          "name": "P·J·伯恩"
+        },
+        {
+          "id": 5,
+          "name": "Zoe Buchansky"
+        },
+        {
+          "id": 6,
+          "name": "南茜·林韩·查尔斯"
+        },
+        {
+          "id": 7,
+          "name": "艾米·麦圭尔"
+        },
+        {
+          "id": 8,
+          "name": "道格·蒙托亚"
+        },
+        {
+          "id": 9,
+          "name": "Kelsey Leos Montoya"
+        },
+        {
+          "id": 10,
+          "name": "特拉维斯·西蒙"
+        },
+        {
+          "id": 11,
+          "name": "本尼·泰勒"
+        },
+        {
+          "id": 12,
+          "name": "Ernie Vigil"
+        },
+        {
+          "id": 13,
+          "name": "Rachel Hroncich"
+        },
+        {
+          "id": 14,
+          "name": "Steven Ray Byrd"
+        },
+        {
+          "id": 15,
+          "name": "哈耶斯·哈格罗夫"
+        },
+        {
+          "id": 16,
+          "name": "Kristin K. Berg"
+        },
+        {
+          "id": 17,
+          "name": "杰夫·伯格曼"
+        },
+        {
+          "id": 18,
+          "name": "Tucker Hawkey"
+        },
+        {
+          "id": 19,
+          "name": "艾瑞克·鲍扎"
+        },
+        {
+          "id": 20,
+          "name": "蓬·库巴斯基"
+        }
+      ],
+      "countries": [
+        "美国"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "aka": [
+        "歪心狼大电影",
+        "Coyote Vs. Acme",
+        "ACME"
+      ],
+      "imdb_id": null,
+      "poster_path": "posters/douban/movie_cn/27190137.jpg",
+      "douban_rating": "7.6",
+      "douban_link_google": "https://movie.douban.com/subject/27190137/",
+      "douban_link_verified": true,
+      "overview": "一辈子追捕哔哔鸟的歪心狼，次次行动都栽在ACME公司生产的坑爹道具手里，炸弹炸自己、弹簧弹飞自己，忙活半辈子没抓到猎物，还落得一身伤。忍无可忍的它找上落魄律师凯文·埃弗里，一纸诉状把ACME公司告上法庭，索要巨额赔偿。面对体量庞大的行业巨头，这场官司从一开始就乌龙不断。两人一边收集证据，一边深入 ACME 内部探秘，牵扯出更多离谱的公司秘密。一众经典乐一通角色纷纷登场助阵，一场荒诞又爆笑的法庭攻防大战就此展开。",
+      "durations": [
+        "101分钟"
+      ],
+      "release_windows": [
+        {
+          "id": "summer",
+          "label": "暑期档"
+        }
+      ],
+      "rating_count": 557,
+      "rating_star_count": 4,
       "type": "movie"
     },
     {
@@ -5452,122 +6397,6 @@
       }
     },
     {
-      "id": 36935883,
-      "title": "灵魂伴侣",
-      "original_title": "Soulm8te",
-      "release_date": "2026-08-01",
-      "genres": [
-        {
-          "id": 1,
-          "name": "科幻"
-        },
-        {
-          "id": 2,
-          "name": "惊悚"
-        },
-        {
-          "id": 3,
-          "name": "恐怖"
-        }
-      ],
-      "directors": [
-        {
-          "id": 1,
-          "name": "凯特·多兰"
-        }
-      ],
-      "actors": [
-        {
-          "id": 1,
-          "name": "莉莉·沙利文"
-        },
-        {
-          "id": 2,
-          "name": "大卫·里达尔"
-        },
-        {
-          "id": 3,
-          "name": "克劳迪娅·杜米特"
-        },
-        {
-          "id": 4,
-          "name": "阿尔蒂·佛鲁山"
-        },
-        {
-          "id": 5,
-          "name": "伊利亚·库克"
-        },
-        {
-          "id": 6,
-          "name": "马拉·胡夫"
-        },
-        {
-          "id": 7,
-          "name": "西德尼·布莱克波恩"
-        },
-        {
-          "id": 8,
-          "name": "伊莎贝尔·邦弗雷"
-        },
-        {
-          "id": 9,
-          "name": "艾玛·拉莫斯"
-        },
-        {
-          "id": 10,
-          "name": "奥利弗·库珀"
-        },
-        {
-          "id": 11,
-          "name": "尼古拉斯·拉尼"
-        },
-        {
-          "id": 12,
-          "name": "汉娜·玛玛丽斯"
-        },
-        {
-          "id": 13,
-          "name": "加里·赫泽勒"
-        },
-        {
-          "id": 14,
-          "name": "乔丹妮·琼斯"
-        },
-        {
-          "id": 15,
-          "name": "安德鲁·艾斯科夫"
-        }
-      ],
-      "countries": [
-        "美国"
-      ],
-      "languages": [
-        "英语"
-      ],
-      "aka": [
-        "《梅根》宇宙外传",
-        "夺魂伴侣"
-      ],
-      "imdb_id": null,
-      "poster_path": "posters/douban/movie_cn/36935883.jpg",
-      "douban_rating": "5.9",
-      "douban_link_google": "https://movie.douban.com/subject/36935883/",
-      "douban_link_verified": true,
-      "overview": "一名男子获得了一个人工智能机器人，以应对刚刚去世的妻子的去世。  为了创造一个真正有知觉的伴侣，他无意中把一个无害的爱情机器人变成了一个致命的灵魂伴侣。",
-      "durations": [
-        "99分钟"
-      ],
-      "release_windows": [
-        {
-          "id": "summer",
-          "label": "暑期档"
-        }
-      ],
-      "rating_count": 3203,
-      "rating_star_count": 3,
-      "type": "movie"
-    },
-    {
       "id": 36850814,
       "title": "年会不能停！2",
       "original_title": "年会不能停！2",
@@ -5725,6 +6554,122 @@
           "publishedAt": "2026-05-28T03:36:53.000Z"
         }
       ]
+    },
+    {
+      "id": 36935883,
+      "title": "灵魂伴侣",
+      "original_title": "Soulm8te",
+      "release_date": "2026-08-01",
+      "genres": [
+        {
+          "id": 1,
+          "name": "科幻"
+        },
+        {
+          "id": 2,
+          "name": "惊悚"
+        },
+        {
+          "id": 3,
+          "name": "恐怖"
+        }
+      ],
+      "directors": [
+        {
+          "id": 1,
+          "name": "凯特·多兰"
+        }
+      ],
+      "actors": [
+        {
+          "id": 1,
+          "name": "莉莉·沙利文"
+        },
+        {
+          "id": 2,
+          "name": "大卫·里达尔"
+        },
+        {
+          "id": 3,
+          "name": "克劳迪娅·杜米特"
+        },
+        {
+          "id": 4,
+          "name": "阿尔蒂·佛鲁山"
+        },
+        {
+          "id": 5,
+          "name": "伊利亚·库克"
+        },
+        {
+          "id": 6,
+          "name": "马拉·胡夫"
+        },
+        {
+          "id": 7,
+          "name": "西德尼·布莱克波恩"
+        },
+        {
+          "id": 8,
+          "name": "伊莎贝尔·邦弗雷"
+        },
+        {
+          "id": 9,
+          "name": "艾玛·拉莫斯"
+        },
+        {
+          "id": 10,
+          "name": "奥利弗·库珀"
+        },
+        {
+          "id": 11,
+          "name": "尼古拉斯·拉尼"
+        },
+        {
+          "id": 12,
+          "name": "汉娜·玛玛丽斯"
+        },
+        {
+          "id": 13,
+          "name": "加里·赫泽勒"
+        },
+        {
+          "id": 14,
+          "name": "乔丹妮·琼斯"
+        },
+        {
+          "id": 15,
+          "name": "安德鲁·艾斯科夫"
+        }
+      ],
+      "countries": [
+        "美国"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "aka": [
+        "《梅根》宇宙外传",
+        "夺魂伴侣"
+      ],
+      "imdb_id": null,
+      "poster_path": "posters/douban/movie_cn/36935883.jpg",
+      "douban_rating": "5.9",
+      "douban_link_google": "https://movie.douban.com/subject/36935883/",
+      "douban_link_verified": true,
+      "overview": "一名男子获得了一个人工智能机器人，以应对刚刚去世的妻子的去世。  为了创造一个真正有知觉的伴侣，他无意中把一个无害的爱情机器人变成了一个致命的灵魂伴侣。",
+      "durations": [
+        "99分钟"
+      ],
+      "release_windows": [
+        {
+          "id": "summer",
+          "label": "暑期档"
+        }
+      ],
+      "rating_count": 3882,
+      "rating_star_count": 3,
+      "type": "movie"
     },
     {
       "id": 37054065,
@@ -6131,7 +7076,7 @@
           "label": "暑期档"
         }
       ],
-      "rating_count": 811,
+      "rating_count": 920,
       "rating_star_count": 3.5,
       "type": "movie"
     },
@@ -8355,134 +9300,6 @@
       }
     },
     {
-      "id": 36343469,
-      "title": "海洋奇缘：启航",
-      "original_title": "Moana",
-      "release_date": "2026-07-10",
-      "genres": [
-        {
-          "id": 1,
-          "name": "喜剧"
-        },
-        {
-          "id": 2,
-          "name": "动作"
-        },
-        {
-          "id": 3,
-          "name": "歌舞"
-        },
-        {
-          "id": 4,
-          "name": "奇幻"
-        },
-        {
-          "id": 5,
-          "name": "冒险"
-        }
-      ],
-      "directors": [
-        {
-          "id": 1,
-          "name": "托马斯·凯尔"
-        }
-      ],
-      "actors": [
-        {
-          "id": 1,
-          "name": "凯瑟琳·拉加艾亚"
-        },
-        {
-          "id": 2,
-          "name": "道恩·强森"
-        },
-        {
-          "id": 3,
-          "name": "约翰·图伊"
-        },
-        {
-          "id": 4,
-          "name": "弗兰基·亚当斯"
-        },
-        {
-          "id": 5,
-          "name": "丽纳·欧文"
-        },
-        {
-          "id": 6,
-          "name": "蒂阿洛哈·霍库拉尼·卡雷拉"
-        },
-        {
-          "id": 7,
-          "name": "杰梅奈·克莱门特"
-        },
-        {
-          "id": 8,
-          "name": "阿玛亚·马索利"
-        },
-        {
-          "id": 9,
-          "name": "艾玛·普阿希-沙帕齐安"
-        },
-        {
-          "id": 10,
-          "name": "迈克尔·阿丽莎"
-        },
-        {
-          "id": 11,
-          "name": "伦纳德·马修斯"
-        },
-        {
-          "id": 12,
-          "name": "阿丽亚·卡萨拉"
-        }
-      ],
-      "countries": [
-        "美国",
-        "新西兰",
-        "加拿大",
-        "匈牙利"
-      ],
-      "languages": [
-        "英语",
-        "萨摩亚语"
-      ],
-      "aka": [
-        "海洋奇缘真人版",
-        "海洋奇缘(台)",
-        "魔海奇缘(港)"
-      ],
-      "imdb_id": null,
-      "poster_path": "posters/douban/movie_cn/36343469.jpg",
-      "douban_rating": "6.7",
-      "douban_link_google": "https://movie.douban.com/subject/36343469/",
-      "douban_link_verified": true,
-      "overview": "莫阿娜（凯瑟琳·拉加艾亚 饰）受到大海的召唤，与传奇半神毛伊（道恩·强森 饰）一同启航，首次跨越莫图鲁尼岛的礁石，驶向远方未知的海域。为了恢复部落往日的繁荣，他们踏上了一场壮阔而难忘的征程。",
-      "durations": [
-        "116分钟"
-      ],
-      "release_windows": [
-        {
-          "id": "summer",
-          "label": "暑期档"
-        }
-      ],
-      "rating_count": 6046,
-      "rating_star_count": 3.5,
-      "type": "movie",
-      "trailers": [
-        {
-          "source": "bilibili",
-          "title": "巨石强森奇幻大片！真人版《海洋奇缘·启航》内地预告，定档07.10中美同步",
-          "bvid": "BV1HrE36SEnY",
-          "url": "https://www.bilibili.com/video/BV1HrE36SEnY",
-          "embedUrl": "https://player.bilibili.com/player.html?bvid=BV1HrE36SEnY&page=1&qn=64&high_quality=1",
-          "cover": "http://i0.hdslb.com/bfs/archive/042bb179887de2a81a7e851cff8d25e8a88ce2f5.jpg",
-          "publishedAt": "2026-06-08T14:49:42.000Z"
-        }
-      ]
-    },
-    {
       "id": 36752981,
       "title": "三国第一部：争洛阳",
       "original_title": "三国第一部：争洛阳",
@@ -8622,9 +9439,9 @@
       "aka": [
         "Three Kingdoms: The Beginning"
       ],
-      "imdb_id": "tt43515124",
+      "imdb_id": null,
       "poster_path": "posters/douban/movie_cn/36752981.jpg",
-      "douban_rating": "8.0",
+      "douban_rating": "8.1",
       "douban_link_google": "https://movie.douban.com/subject/36752981/",
       "douban_link_verified": true,
       "overview": "三国三部曲讲述东汉末年群雄逐鹿，终于赤壁一战，天下三分。\n本片作为三国三部曲首作，拉开了乱世序幕：东汉末年，三国鼎立大幕未启，黄巾军起，外戚弄权，宦官乱政。天下动荡之际，曹操、袁绍欲借大将军何进之力制衡宦官，匡扶汉室。不料董卓趁乱进京，图谋废立。乱世洪流中，袁术、吕布、孙坚及刘关张等各路群雄相继登场，洛阳风云起，大汉的命运走向十字路口……",
@@ -8637,11 +9454,9 @@
           "label": "暑期档"
         }
       ],
-      "rating_count": 72632,
+      "rating_count": 65853,
       "rating_star_count": 4,
       "type": "movie",
-      "tmdb_id": 1671541,
-      "tmdbUrl": "https://www.themoviedb.org/movie/1671541",
       "box_office": {
         "source": "maoyan",
         "updated_at": "2026-08-12T14:50:20.877Z",
@@ -8668,6 +9483,134 @@
           "embedUrl": "https://player.bilibili.com/player.html?bvid=BV1nmQ5BMExC&page=1&qn=64&high_quality=1",
           "cover": "http://i2.hdslb.com/bfs/archive/479e9dde60f851e7a29ed363cd98c0e3af8d222f.jpg",
           "publishedAt": "2026-04-15T02:40:06.000Z"
+        }
+      ]
+    },
+    {
+      "id": 36343469,
+      "title": "海洋奇缘：启航",
+      "original_title": "Moana",
+      "release_date": "2026-07-10",
+      "genres": [
+        {
+          "id": 1,
+          "name": "喜剧"
+        },
+        {
+          "id": 2,
+          "name": "动作"
+        },
+        {
+          "id": 3,
+          "name": "歌舞"
+        },
+        {
+          "id": 4,
+          "name": "奇幻"
+        },
+        {
+          "id": 5,
+          "name": "冒险"
+        }
+      ],
+      "directors": [
+        {
+          "id": 1,
+          "name": "托马斯·凯尔"
+        }
+      ],
+      "actors": [
+        {
+          "id": 1,
+          "name": "凯瑟琳·拉加艾亚"
+        },
+        {
+          "id": 2,
+          "name": "道恩·强森"
+        },
+        {
+          "id": 3,
+          "name": "约翰·图伊"
+        },
+        {
+          "id": 4,
+          "name": "弗兰基·亚当斯"
+        },
+        {
+          "id": 5,
+          "name": "丽纳·欧文"
+        },
+        {
+          "id": 6,
+          "name": "蒂阿洛哈·霍库拉尼·卡雷拉"
+        },
+        {
+          "id": 7,
+          "name": "杰梅奈·克莱门特"
+        },
+        {
+          "id": 8,
+          "name": "阿玛亚·马索利"
+        },
+        {
+          "id": 9,
+          "name": "艾玛·普阿希-沙帕齐安"
+        },
+        {
+          "id": 10,
+          "name": "迈克尔·阿丽莎"
+        },
+        {
+          "id": 11,
+          "name": "伦纳德·马修斯"
+        },
+        {
+          "id": 12,
+          "name": "阿丽亚·卡萨拉"
+        }
+      ],
+      "countries": [
+        "美国",
+        "新西兰",
+        "加拿大",
+        "匈牙利"
+      ],
+      "languages": [
+        "英语",
+        "萨摩亚语"
+      ],
+      "aka": [
+        "海洋奇缘真人版",
+        "海洋奇缘(台)",
+        "魔海奇缘(港)"
+      ],
+      "imdb_id": null,
+      "poster_path": "posters/douban/movie_cn/36343469.jpg",
+      "douban_rating": "6.7",
+      "douban_link_google": "https://movie.douban.com/subject/36343469/",
+      "douban_link_verified": true,
+      "overview": "莫阿娜（凯瑟琳·拉加艾亚 饰）受到大海的召唤，与传奇半神毛伊（道恩·强森 饰）一同启航，首次跨越莫图鲁尼岛的礁石，驶向远方未知的海域。为了恢复部落往日的繁荣，他们踏上了一场壮阔而难忘的征程。",
+      "durations": [
+        "116分钟"
+      ],
+      "release_windows": [
+        {
+          "id": "summer",
+          "label": "暑期档"
+        }
+      ],
+      "rating_count": 6046,
+      "rating_star_count": 3.5,
+      "type": "movie",
+      "trailers": [
+        {
+          "source": "bilibili",
+          "title": "巨石强森奇幻大片！真人版《海洋奇缘·启航》内地预告，定档07.10中美同步",
+          "bvid": "BV1HrE36SEnY",
+          "url": "https://www.bilibili.com/video/BV1HrE36SEnY",
+          "embedUrl": "https://player.bilibili.com/player.html?bvid=BV1HrE36SEnY&page=1&qn=64&high_quality=1",
+          "cover": "http://i0.hdslb.com/bfs/archive/042bb179887de2a81a7e851cff8d25e8a88ce2f5.jpg",
+          "publishedAt": "2026-06-08T14:49:42.000Z"
         }
       ]
     },
@@ -9397,116 +10340,6 @@
       ]
     },
     {
-      "id": 37455274,
-      "title": "营救夜莺",
-      "original_title": "Man of War",
-      "release_date": "2026-07-03",
-      "genres": [
-        {
-          "id": 1,
-          "name": "动作"
-        }
-      ],
-      "directors": [
-        {
-          "id": 1,
-          "name": "威廉·考夫曼"
-        }
-      ],
-      "actors": [
-        {
-          "id": 1,
-          "name": "拉莫尼卡·加勒特"
-        },
-        {
-          "id": 2,
-          "name": "安德鲁·霍华德"
-        },
-        {
-          "id": 3,
-          "name": "林德·爱德华"
-        },
-        {
-          "id": 4,
-          "name": "罗斯玛丽·雅妮瓦"
-        },
-        {
-          "id": 5,
-          "name": "杰森·帕特里克"
-        },
-        {
-          "id": 6,
-          "name": "丹尼尔·伯哈特"
-        },
-        {
-          "id": 7,
-          "name": "安东尼·达维多夫"
-        },
-        {
-          "id": 8,
-          "name": "弗朗索瓦·科策"
-        },
-        {
-          "id": 9,
-          "name": "博扬·阿涅夫"
-        },
-        {
-          "id": 10,
-          "name": "达伦·伯里奇"
-        },
-        {
-          "id": 11,
-          "name": "马克斯·克劳斯"
-        },
-        {
-          "id": 12,
-          "name": "丹尼·奥古斯都"
-        },
-        {
-          "id": 13,
-          "name": "黛莉·艾伦"
-        },
-        {
-          "id": 14,
-          "name": "玛丽亚-拉德娜·博日科娃"
-        },
-        {
-          "id": 15,
-          "name": "阿伦·安格洛夫"
-        }
-      ],
-      "countries": [
-        "美国"
-      ],
-      "languages": [
-        "英语",
-        "乌克兰语",
-        "俄语"
-      ],
-      "aka": [
-        "士卒",
-        "Nightingale"
-      ],
-      "imdb_id": null,
-      "poster_path": "posters/douban/movie_cn/37455274.jpg",
-      "douban_rating": "6.2",
-      "douban_link_google": "https://movie.douban.com/subject/37455274/",
-      "douban_link_verified": true,
-      "overview": "战事爆发初期，一名人道主义救援人员在乌克兰境内突然失联。前海豹突击队队员、前CIA特工康纳早已淡出刀口舔血的日子，为了救人，他重新踏入这片支离破碎的土地。孤身穿越交火不断的战区，沿途遭遇雇佣兵的围追堵截，瞬息万变的战线随时能把人吞噬，更难缠的是那些他以为早已抛下的过往阴影。在满目疮痍的城市废墟里，他既要在多方势力的夹缝里找到失踪者，也要在枪林弹雨里，和自己的过去做个了断。",
-      "durations": [
-        "111分钟"
-      ],
-      "release_windows": [
-        {
-          "id": "summer",
-          "label": "暑期档"
-        }
-      ],
-      "rating_count": 1205,
-      "rating_star_count": 3,
-      "type": "movie"
-    },
-    {
       "id": 36953973,
       "title": "特立独行",
       "original_title": "特立独行",
@@ -9647,7 +10480,7 @@
         "乌合之众‎",
         "Keep Real"
       ],
-      "imdb_id": "tt43295610",
+      "imdb_id": null,
       "poster_path": "posters/douban/movie_cn/36953973.jpg",
       "douban_rating": "6.7",
       "douban_link_google": "https://movie.douban.com/subject/36953973/",
@@ -9662,11 +10495,9 @@
           "label": "暑期档"
         }
       ],
-      "rating_count": 50923,
+      "rating_count": 50033,
       "rating_star_count": 3.5,
       "type": "movie",
-      "tmdb_id": 1353926,
-      "tmdbUrl": "https://www.themoviedb.org/movie/1353926",
       "box_office": {
         "source": "maoyan",
         "updated_at": "2026-08-12T14:50:20.877Z",
@@ -9713,6 +10544,116 @@
           "publishedAt": "2026-06-01T13:11:29.000Z"
         }
       ]
+    },
+    {
+      "id": 37455274,
+      "title": "营救夜莺",
+      "original_title": "Man of War",
+      "release_date": "2026-07-03",
+      "genres": [
+        {
+          "id": 1,
+          "name": "动作"
+        }
+      ],
+      "directors": [
+        {
+          "id": 1,
+          "name": "威廉·考夫曼"
+        }
+      ],
+      "actors": [
+        {
+          "id": 1,
+          "name": "拉莫尼卡·加勒特"
+        },
+        {
+          "id": 2,
+          "name": "安德鲁·霍华德"
+        },
+        {
+          "id": 3,
+          "name": "林德·爱德华"
+        },
+        {
+          "id": 4,
+          "name": "罗斯玛丽·雅妮瓦"
+        },
+        {
+          "id": 5,
+          "name": "杰森·帕特里克"
+        },
+        {
+          "id": 6,
+          "name": "丹尼尔·伯哈特"
+        },
+        {
+          "id": 7,
+          "name": "安东尼·达维多夫"
+        },
+        {
+          "id": 8,
+          "name": "弗朗索瓦·科策"
+        },
+        {
+          "id": 9,
+          "name": "博扬·阿涅夫"
+        },
+        {
+          "id": 10,
+          "name": "达伦·伯里奇"
+        },
+        {
+          "id": 11,
+          "name": "马克斯·克劳斯"
+        },
+        {
+          "id": 12,
+          "name": "丹尼·奥古斯都"
+        },
+        {
+          "id": 13,
+          "name": "黛莉·艾伦"
+        },
+        {
+          "id": 14,
+          "name": "玛丽亚-拉德娜·博日科娃"
+        },
+        {
+          "id": 15,
+          "name": "阿伦·安格洛夫"
+        }
+      ],
+      "countries": [
+        "美国"
+      ],
+      "languages": [
+        "英语",
+        "乌克兰语",
+        "俄语"
+      ],
+      "aka": [
+        "士卒",
+        "Nightingale"
+      ],
+      "imdb_id": null,
+      "poster_path": "posters/douban/movie_cn/37455274.jpg",
+      "douban_rating": "6.2",
+      "douban_link_google": "https://movie.douban.com/subject/37455274/",
+      "douban_link_verified": true,
+      "overview": "战事爆发初期，一名人道主义救援人员在乌克兰境内突然失联。前海豹突击队队员、前CIA特工康纳早已淡出刀口舔血的日子，为了救人，他重新踏入这片支离破碎的土地。孤身穿越交火不断的战区，沿途遭遇雇佣兵的围追堵截，瞬息万变的战线随时能把人吞噬，更难缠的是那些他以为早已抛下的过往阴影。在满目疮痍的城市废墟里，他既要在多方势力的夹缝里找到失踪者，也要在枪林弹雨里，和自己的过去做个了断。",
+      "durations": [
+        "111分钟"
+      ],
+      "release_windows": [
+        {
+          "id": "summer",
+          "label": "暑期档"
+        }
+      ],
+      "rating_count": 1205,
+      "rating_star_count": 3,
+      "type": "movie"
     },
     {
       "id": 37942006,
@@ -11376,147 +12317,6 @@
       }
     },
     {
-      "id": 36235977,
-      "title": "后室",
-      "original_title": "Backrooms",
-      "release_date": "2026-06-26",
-      "genres": [
-        {
-          "id": 1,
-          "name": "科幻"
-        },
-        {
-          "id": 2,
-          "name": "恐怖"
-        }
-      ],
-      "directors": [
-        {
-          "id": 1,
-          "name": "凯恩·帕森斯"
-        }
-      ],
-      "actors": [
-        {
-          "id": 1,
-          "name": "切瓦特·埃加福"
-        },
-        {
-          "id": 2,
-          "name": "雷娜特·赖因斯夫"
-        },
-        {
-          "id": 3,
-          "name": "芬恩·本尼特"
-        },
-        {
-          "id": 4,
-          "name": "卢基塔·麦克斯韦尔"
-        },
-        {
-          "id": 5,
-          "name": "马克·杜普拉斯"
-        },
-        {
-          "id": 6,
-          "name": "阿万·乔贾"
-        },
-        {
-          "id": 7,
-          "name": "罗伯特·博布罗茨基"
-        },
-        {
-          "id": 8,
-          "name": "安珀·安布罗斯"
-        },
-        {
-          "id": 9,
-          "name": "克丽丝塔·科索宁"
-        },
-        {
-          "id": 10,
-          "name": "菲利普·格兰杰"
-        },
-        {
-          "id": 11,
-          "name": "凯瑟琳·伊莎贝尔"
-        },
-        {
-          "id": 12,
-          "name": "皮特·纽"
-        },
-        {
-          "id": 13,
-          "name": "莎拉·海沃德"
-        },
-        {
-          "id": 14,
-          "name": "娜塔莉·穆恩"
-        },
-        {
-          "id": 15,
-          "name": "卡利克斯·弗雷泽"
-        }
-      ],
-      "countries": [
-        "美国",
-        "加拿大"
-      ],
-      "languages": [
-        "英语",
-        "葡萄牙语"
-      ],
-      "aka": [
-        "后室(电影版)",
-        "边缘空间：电影",
-        "嚇房(港)",
-        "嚇房(戏院独家加长版)",
-        "Backrooms: Everything Must Go Edition w/ Bonus Footage"
-      ],
-      "imdb_id": null,
-      "poster_path": "posters/douban/movie_cn/36235977.jpg",
-      "douban_rating": "6.7",
-      "douban_link_google": "https://movie.douban.com/subject/36235977/",
-      "douban_link_verified": true,
-      "overview": "深陷困境的克拉克（切瓦特·埃加福 饰）意外切入名为“后室”的神秘空间，在这里一切物理规则崩塌，只有漫无边际的黄色房间，没有终点也没有出路。心理医生玛丽（雷娜特·赖因斯夫 饰）为寻回克拉克意外踏入此地，在这片异常空间中，随着心理防线的崩塌，未知的恐惧与实体也在一步步向他们靠近……\n影片脱胎于导演凯恩·帕森斯打造的现象级惊悚短片「后室」。",
-      "durations": [
-        "111分钟",
-        "127分钟(加长版)"
-      ],
-      "release_windows": [],
-      "rating_count": 130252,
-      "rating_star_count": 3.5,
-      "type": "movie",
-      "box_office": {
-        "source": "maoyan",
-        "updated_at": "2026-08-12T14:50:20.877Z",
-        "rank": 16,
-        "maoyan_movie_id": 1591067,
-        "movie_name": "后室",
-        "release_info": "上映48天",
-        "real_time_box_office": "4.06万",
-        "cumulative_box_office": "1.84亿",
-        "split_cumulative_box_office": "1.63亿",
-        "box_office_rate": "<0.1%",
-        "split_box_office_rate": "<0.1%",
-        "show_count": 385,
-        "show_count_rate": "<0.1%",
-        "seat_occupancy": "3.7%",
-        "avg_show_view": "2.8"
-      },
-      "trailers": [
-        {
-          "source": "bilibili",
-          "title": "终于来了！温子仁制片！年度爆款恐怖片《后室》内地预告，定档06.26",
-          "bvid": "BV1yPLQ6xEPw",
-          "url": "https://www.bilibili.com/video/BV1yPLQ6xEPw",
-          "embedUrl": "https://player.bilibili.com/player.html?bvid=BV1yPLQ6xEPw&page=1&qn=64&high_quality=1",
-          "cover": "http://i1.hdslb.com/bfs/archive/b8a7210dd5e70355abba28a64e7e1bec1271d25d.jpg",
-          "publishedAt": "2026-06-17T03:25:33.000Z"
-        }
-      ]
-    },
-    {
       "id": 37191746,
       "title": "四渡",
       "original_title": "四渡",
@@ -11736,6 +12536,147 @@
           "embedUrl": "https://player.bilibili.com/player.html?bvid=BV1FXdaBYEdG&page=1&qn=64&high_quality=1",
           "cover": "http://i0.hdslb.com/bfs/archive/d468e85285e29ee4a874126cbaab1e74c0b07cb9.jpg",
           "publishedAt": "2026-04-16T12:25:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": 36235977,
+      "title": "后室",
+      "original_title": "Backrooms",
+      "release_date": "2026-06-26",
+      "genres": [
+        {
+          "id": 1,
+          "name": "科幻"
+        },
+        {
+          "id": 2,
+          "name": "恐怖"
+        }
+      ],
+      "directors": [
+        {
+          "id": 1,
+          "name": "凯恩·帕森斯"
+        }
+      ],
+      "actors": [
+        {
+          "id": 1,
+          "name": "切瓦特·埃加福"
+        },
+        {
+          "id": 2,
+          "name": "雷娜特·赖因斯夫"
+        },
+        {
+          "id": 3,
+          "name": "芬恩·本尼特"
+        },
+        {
+          "id": 4,
+          "name": "卢基塔·麦克斯韦尔"
+        },
+        {
+          "id": 5,
+          "name": "马克·杜普拉斯"
+        },
+        {
+          "id": 6,
+          "name": "阿万·乔贾"
+        },
+        {
+          "id": 7,
+          "name": "罗伯特·博布罗茨基"
+        },
+        {
+          "id": 8,
+          "name": "安珀·安布罗斯"
+        },
+        {
+          "id": 9,
+          "name": "克丽丝塔·科索宁"
+        },
+        {
+          "id": 10,
+          "name": "菲利普·格兰杰"
+        },
+        {
+          "id": 11,
+          "name": "凯瑟琳·伊莎贝尔"
+        },
+        {
+          "id": 12,
+          "name": "皮特·纽"
+        },
+        {
+          "id": 13,
+          "name": "莎拉·海沃德"
+        },
+        {
+          "id": 14,
+          "name": "娜塔莉·穆恩"
+        },
+        {
+          "id": 15,
+          "name": "卡利克斯·弗雷泽"
+        }
+      ],
+      "countries": [
+        "美国",
+        "加拿大"
+      ],
+      "languages": [
+        "英语",
+        "葡萄牙语"
+      ],
+      "aka": [
+        "后室(电影版)",
+        "边缘空间：电影",
+        "嚇房(港)",
+        "嚇房(戏院独家加长版)",
+        "Backrooms: Everything Must Go Edition w/ Bonus Footage"
+      ],
+      "imdb_id": null,
+      "poster_path": "posters/douban/movie_cn/36235977.jpg",
+      "douban_rating": "6.7",
+      "douban_link_google": "https://movie.douban.com/subject/36235977/",
+      "douban_link_verified": true,
+      "overview": "深陷困境的克拉克（切瓦特·埃加福 饰）意外切入名为“后室”的神秘空间，在这里一切物理规则崩塌，只有漫无边际的黄色房间，没有终点也没有出路。心理医生玛丽（雷娜特·赖因斯夫 饰）为寻回克拉克意外踏入此地，在这片异常空间中，随着心理防线的崩塌，未知的恐惧与实体也在一步步向他们靠近……\n影片脱胎于导演凯恩·帕森斯打造的现象级惊悚短片「后室」。",
+      "durations": [
+        "111分钟",
+        "127分钟(加长版)"
+      ],
+      "release_windows": [],
+      "rating_count": 130252,
+      "rating_star_count": 3.5,
+      "type": "movie",
+      "box_office": {
+        "source": "maoyan",
+        "updated_at": "2026-08-12T14:50:20.877Z",
+        "rank": 16,
+        "maoyan_movie_id": 1591067,
+        "movie_name": "后室",
+        "release_info": "上映48天",
+        "real_time_box_office": "4.06万",
+        "cumulative_box_office": "1.84亿",
+        "split_cumulative_box_office": "1.63亿",
+        "box_office_rate": "<0.1%",
+        "split_box_office_rate": "<0.1%",
+        "show_count": 385,
+        "show_count_rate": "<0.1%",
+        "seat_occupancy": "3.7%",
+        "avg_show_view": "2.8"
+      },
+      "trailers": [
+        {
+          "source": "bilibili",
+          "title": "终于来了！温子仁制片！年度爆款恐怖片《后室》内地预告，定档06.26",
+          "bvid": "BV1yPLQ6xEPw",
+          "url": "https://www.bilibili.com/video/BV1yPLQ6xEPw",
+          "embedUrl": "https://player.bilibili.com/player.html?bvid=BV1yPLQ6xEPw&page=1&qn=64&high_quality=1",
+          "cover": "http://i1.hdslb.com/bfs/archive/b8a7210dd5e70355abba28a64e7e1bec1271d25d.jpg",
+          "publishedAt": "2026-06-17T03:25:33.000Z"
         }
       ]
     },
@@ -14006,6 +14947,104 @@
         "seat_occupancy": "8.7%",
         "avg_show_view": "8.4"
       }
+    },
+    {
+      "id": 38481360,
+      "title": "一直在这里",
+      "original_title": "Quinze Dias",
+      "release_date": "2026-06-18",
+      "genres": [
+        {
+          "id": 1,
+          "name": "喜剧"
+        },
+        {
+          "id": 2,
+          "name": "爱情"
+        }
+      ],
+      "directors": [
+        {
+          "id": 1,
+          "name": "Daniel Lieff"
+        }
+      ],
+      "actors": [
+        {
+          "id": 1,
+          "name": "米格尔·拉罗"
+        },
+        {
+          "id": 2,
+          "name": "迪亚哥·利拉"
+        },
+        {
+          "id": 3,
+          "name": "黛博拉·法拉贝拉"
+        },
+        {
+          "id": 4,
+          "name": "Mika Soeiro"
+        },
+        {
+          "id": 5,
+          "name": "Bel Moreira"
+        },
+        {
+          "id": 6,
+          "name": "Olivia Araújo"
+        },
+        {
+          "id": 7,
+          "name": "Fernando Caruso"
+        },
+        {
+          "id": 8,
+          "name": "João Pedro Chaseliov"
+        },
+        {
+          "id": 9,
+          "name": "西尔维欧·圭恩丹尼"
+        },
+        {
+          "id": 10,
+          "name": "奥古斯托·马德拉"
+        },
+        {
+          "id": 11,
+          "name": "João Gabriel Marinho"
+        },
+        {
+          "id": 12,
+          "name": "Mariana Santos"
+        },
+        {
+          "id": 13,
+          "name": "马西奥·维托"
+        }
+      ],
+      "countries": [
+        "巴西"
+      ],
+      "languages": [
+        "葡萄牙语"
+      ],
+      "aka": [
+        "Here the Whole Time"
+      ],
+      "imdb_id": null,
+      "poster_path": "posters/douban/movie_cn/38481360.jpg",
+      "douban_rating": "7.1",
+      "douban_link_google": "https://movie.douban.com/subject/38481360/",
+      "douban_link_verified": true,
+      "overview": "费利佩只是想要平静的生活，想要在七月的假期里远离学校和同学，远离那些针对他体重的刻薄称呼。但问题在于，他的母亲决定让邻居兼昔日好友卡伊住上十五天。卡伊如今已是个令人讨厌的青少年，这让费利佩的内心产生了不安。随着时间的推移，费利佩对这位邻居的怨恨逐渐转变为友谊，最终甚至发展出了更深的感情。如果他们想要这段恋情成功的话，那么两人就需要学会处理各自的问题。",
+      "durations": [
+        "100分钟"
+      ],
+      "release_windows": [],
+      "rating_count": 343,
+      "rating_star_count": 3.5,
+      "type": "movie"
     },
     {
       "id": 37346574,
@@ -19538,6 +20577,134 @@
       "type": "movie"
     },
     {
+      "id": 37055925,
+      "title": "所爱之人",
+      "original_title": "El Ser Querido",
+      "release_date": "2026-05-16",
+      "genres": [
+        {
+          "id": 1,
+          "name": "剧情"
+        }
+      ],
+      "directors": [
+        {
+          "id": 1,
+          "name": "罗德里戈·索罗戈延"
+        }
+      ],
+      "actors": [
+        {
+          "id": 1,
+          "name": "哈维尔·巴登"
+        },
+        {
+          "id": 2,
+          "name": "玛琳娜·佛伊丝"
+        },
+        {
+          "id": 3,
+          "name": "玛丽娜·马修斯"
+        },
+        {
+          "id": 4,
+          "name": "劳尔·阿雷瓦洛"
+        },
+        {
+          "id": 5,
+          "name": "薇姬·卢恩戈"
+        },
+        {
+          "id": 6,
+          "name": "米格尔·加尔塞斯"
+        },
+        {
+          "id": 7,
+          "name": "努里亚·普里姆斯"
+        },
+        {
+          "id": 8,
+          "name": "劳尔·普列托"
+        },
+        {
+          "id": 9,
+          "name": "玛莱娜·维拉"
+        },
+        {
+          "id": 10,
+          "name": "巴勃罗·戈麦斯-潘多"
+        },
+        {
+          "id": 11,
+          "name": "努尔丁·巴坦"
+        },
+        {
+          "id": 12,
+          "name": "Timothy Cordukes"
+        },
+        {
+          "id": 13,
+          "name": "Juan Vinuesa"
+        },
+        {
+          "id": 14,
+          "name": "佩帕·格拉西亚"
+        },
+        {
+          "id": 15,
+          "name": "Claudio Villarrubia"
+        },
+        {
+          "id": 16,
+          "name": "Ana Ruano"
+        },
+        {
+          "id": 17,
+          "name": "拉克尔·费里"
+        },
+        {
+          "id": 18,
+          "name": "Didier Maes"
+        },
+        {
+          "id": 19,
+          "name": "Conchi Espejo"
+        },
+        {
+          "id": 20,
+          "name": "穆拉德·瓦尼"
+        }
+      ],
+      "countries": [
+        "西班牙"
+      ],
+      "languages": [
+        "西班牙语"
+      ],
+      "aka": [
+        "The Beloved",
+        "负爱的价值(港)"
+      ],
+      "imdb_id": null,
+      "poster_path": "posters/douban/movie_cn/37055925.jpg",
+      "douban_rating": "6.3",
+      "douban_link_google": "https://movie.douban.com/subject/37055925/",
+      "douban_link_verified": true,
+      "overview": "一位功成名就的电影导演与他那事业不顺的演员女儿，在历经多年的疏远以及一段谁都不愿提及的痛苦往事后，两人再度聚首共同拍摄一部电影。",
+      "durations": [
+        "135分钟"
+      ],
+      "release_windows": [
+        {
+          "id": "weekend",
+          "label": "周末档"
+        }
+      ],
+      "rating_count": 434,
+      "rating_star_count": 3,
+      "type": "movie"
+    },
+    {
       "id": 37227467,
       "title": "盒子里的羊",
       "original_title": "箱の中の羊",
@@ -20834,7 +22001,7 @@
       "overview": "",
       "durations": [],
       "release_windows": [],
-      "rating_count": 3209,
+      "rating_count": 3219,
       "rating_star_count": 4,
       "type": "movie"
     },
@@ -25099,7 +26266,7 @@
       "overview": "",
       "durations": [],
       "release_windows": [],
-      "rating_count": 2615,
+      "rating_count": 2629,
       "rating_star_count": 3,
       "type": "movie"
     },
@@ -25894,7 +27061,7 @@
       "overview": "",
       "durations": [],
       "release_windows": [],
-      "rating_count": 1251,
+      "rating_count": 1252,
       "rating_star_count": 3.5,
       "type": "movie"
     },
@@ -30953,7 +32120,7 @@
           "label": "周末档"
         }
       ],
-      "rating_count": 505,
+      "rating_count": 507,
       "rating_star_count": 3.5,
       "type": "movie"
     },
@@ -34089,7 +35256,7 @@
       "overview": "",
       "durations": [],
       "release_windows": [],
-      "rating_count": 408,
+      "rating_count": 409,
       "rating_star_count": 3.5,
       "type": "movie"
     },
@@ -35479,7 +36646,7 @@
           "label": "周末档"
         }
       ],
-      "rating_count": 1338,
+      "rating_count": 1340,
       "rating_star_count": 4.5,
       "type": "movie"
     },
@@ -36578,6 +37745,126 @@
       "release_windows": [],
       "rating_count": 5689,
       "rating_star_count": 3,
+      "type": "movie"
+    },
+    {
+      "id": 36513585,
+      "title": "战时离婚指南",
+      "original_title": "Skyrybos karo metu",
+      "release_date": "2026-01-26",
+      "genres": [
+        {
+          "id": 1,
+          "name": "剧情"
+        }
+      ],
+      "directors": [
+        {
+          "id": 1,
+          "name": "安德里乌斯·布拉泽维奇"
+        }
+      ],
+      "actors": [
+        {
+          "id": 1,
+          "name": "马里乌斯·雷普希斯"
+        },
+        {
+          "id": 2,
+          "name": "西吉曼特·雅克什泰特"
+        },
+        {
+          "id": 3,
+          "name": "Amelija Adomaityte"
+        },
+        {
+          "id": 4,
+          "name": "金塔尔·帕鲁利特"
+        },
+        {
+          "id": 5,
+          "name": "瓦伦蒂纳斯·克鲁利科夫斯基斯"
+        },
+        {
+          "id": 6,
+          "name": "Alla Bineeva"
+        },
+        {
+          "id": 7,
+          "name": "Ramunas Cicenas"
+        },
+        {
+          "id": 8,
+          "name": "莱玛·阿克斯蒂奈特"
+        },
+        {
+          "id": 9,
+          "name": "Vygandas Vadeiša"
+        },
+        {
+          "id": 10,
+          "name": "Emilija Latenaite"
+        },
+        {
+          "id": 11,
+          "name": "因德雷·帕考斯凯特"
+        },
+        {
+          "id": 12,
+          "name": "Larisa Kalpokaite"
+        },
+        {
+          "id": 13,
+          "name": "Tomas Seckus"
+        },
+        {
+          "id": 14,
+          "name": "Nikos Sorochynskyi"
+        },
+        {
+          "id": 15,
+          "name": "Yuliia Shynkarenko"
+        },
+        {
+          "id": 16,
+          "name": "Rimantas Bagdzevicius"
+        },
+        {
+          "id": 17,
+          "name": "Aleksandra Metalnikova"
+        },
+        {
+          "id": 18,
+          "name": "Tymur Mazurenko"
+        }
+      ],
+      "countries": [
+        "立陶宛",
+        "捷克",
+        "卢森堡",
+        "爱尔兰"
+      ],
+      "languages": [
+        "立陶宛语",
+        "英语",
+        "俄语"
+      ],
+      "aka": [
+        "How to Divorce During the War",
+        "分居总要在战时(港)"
+      ],
+      "imdb_id": null,
+      "poster_path": "posters/douban/movie_cn/36513585.jpg",
+      "douban_rating": "7.0",
+      "douban_link_google": "https://movie.douban.com/subject/36513585/",
+      "douban_link_verified": true,
+      "overview": "2022年，在维尔纽斯，玛丽亚突然萌生了与丈夫维塔斯离婚的想法，而此时俄罗斯即将入侵乌克兰。面对岌岌可危的婚姻关系，两人在战火纷飞之际，艰难地走上了离婚之路。 编剧兼导演安德留斯·布拉泽维丘斯创作了一部细腻而及时的电影，巧妙地将引人入胜的家庭剧与对在日益饱受战争蹂躏的世界中应对日常生活的复杂体验的深刻见解融合在一起。 正当玛丽亚和维塔斯即将解除婚姻关系之际，他们发现，赖以维系安全舒适生活的诸多价值观正面临崩塌的危险。他们被迫在愤怒与恐惧之间挣扎，因为战争已在他们家门口爆发；他们渴望自己和聪慧的女儿多维尔能够过上正常的生活；同时，他们也必须站在正义的一边。布拉泽维丘斯的剧本在聚焦这对即将分手的夫妇岌岌可危的未来之路的同时，也敏锐地展现了俄罗斯入侵对影片中所有复杂而真实的人物所产生的种种影响。",
+      "durations": [
+        "108分钟"
+      ],
+      "release_windows": [],
+      "rating_count": 392,
+      "rating_star_count": 3.5,
       "type": "movie"
     },
     {
@@ -39358,7 +40645,7 @@
       "overview": "",
       "durations": [],
       "release_windows": [],
-      "rating_count": 1335,
+      "rating_count": 1337,
       "rating_star_count": 4,
       "type": "movie"
     },
@@ -48965,7 +50252,7 @@
     {
       "id": 37386538,
       "title": "黑兔白兔",
-      "original_title": "黑兔白兔",
+      "original_title": "Харгӯши сиёҳ, харгӯши сафед",
       "release_date": "2025-09-21",
       "genres": [
         {
@@ -48997,23 +50284,30 @@
           "name": "Kibriyo Dilyobova"
         }
       ],
-      "countries": [],
+      "countries": [
+        "塔吉克斯坦",
+        "阿联酋"
+      ],
       "languages": [],
-      "aka": [],
+      "aka": [
+        "Black Rabbit, White Rabbit"
+      ],
       "imdb_id": null,
       "poster_path": "posters/douban/movie_cn/37386538.jpg",
       "douban_rating": "6.8",
       "douban_link_google": "https://movie.douban.com/subject/37386538/",
       "douban_link_verified": true,
-      "overview": "",
-      "durations": [],
+      "overview": "一位伊朗导演在塔吉克斯坦翻拍一部经典伊朗电影时，剧组的枪械师发现他们准备使用的枪支并非道具枪，对潜在后果忧心忡忡。与此同时，一名年轻女子闯入拍摄现场，坚持要求获得试镜机会。而在城市的另一角，刚从车祸中康复的萨拉突然意识到，这场事故竟是一场精心策划的阴谋。三条线索在暗中交织，最终将这些看似无关的人物命运紧紧捆绑在一起。",
+      "durations": [
+        "139分钟"
+      ],
       "release_windows": [
         {
           "id": "weekend",
           "label": "周末档"
         }
       ],
-      "rating_count": 319,
+      "rating_count": 329,
       "rating_star_count": 3.5,
       "type": "movie"
     },
@@ -51340,7 +52634,7 @@
       "overview": "",
       "durations": [],
       "release_windows": [],
-      "rating_count": 263,
+      "rating_count": 266,
       "rating_star_count": 3.5,
       "type": "movie"
     },
@@ -53220,7 +54514,7 @@
       "overview": "",
       "durations": [],
       "release_windows": [],
-      "rating_count": 277,
+      "rating_count": 278,
       "rating_star_count": 3,
       "type": "movie"
     },

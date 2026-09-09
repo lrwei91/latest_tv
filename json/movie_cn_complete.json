@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "last_updated": "2026-09-08T12:11:08.988Z",
+    "last_updated": "2026-09-09T12:11:18.417Z",
     "version": "2.0.0",
     "update_log": [
       {
-        "time": "2026-09-08T12:11:08.988Z",
-        "summary": "已同步院线电影数据（complete）：566 条"
+        "time": "2026-09-09T12:11:18.417Z",
+        "summary": "已同步院线电影数据（complete）：568 条"
       }
     ],
     "source": "douban+maoyan+bilibili",
@@ -13,13 +13,13 @@
       {
         "slug": "movie_showing",
         "source": "douban",
-        "count": 34,
+        "count": 33,
         "fetch_error": null
       },
       {
         "slug": "movie_soon",
         "source": "douban",
-        "count": 16,
+        "count": 17,
         "fetch_error": null
       },
       {
@@ -37,11 +37,11 @@
       {
         "slug": "bilibili_up_8465957",
         "source": "bilibili",
-        "count": 227,
+        "count": 228,
         "fetch_error": null
       }
     ],
-    "total_items": 566
+    "total_items": 568
   },
   "movies": [
     {
@@ -119,6 +119,57 @@
         "90分钟"
       ],
       "release_windows": [],
+      "rating_count": null,
+      "rating_star_count": null,
+      "type": "movie"
+    },
+    {
+      "id": 37899051,
+      "title": "活色生香",
+      "original_title": "活色生香",
+      "release_date": "2026-10-01",
+      "genres": [
+        {
+          "id": 1,
+          "name": "剧情"
+        }
+      ],
+      "directors": [
+        {
+          "id": 1,
+          "name": "罗冬"
+        }
+      ],
+      "actors": [
+        {
+          "id": 1,
+          "name": "闫妮"
+        },
+        {
+          "id": 2,
+          "name": "叶童"
+        },
+        {
+          "id": 3,
+          "name": "倪虹洁"
+        }
+      ],
+      "countries": [],
+      "languages": [],
+      "aka": [],
+      "imdb_id": null,
+      "poster_path": "posters/douban/movie_cn/37899051.jpg",
+      "douban_rating": null,
+      "douban_link_google": "https://movie.douban.com/subject/37899051/",
+      "douban_link_verified": true,
+      "overview": "",
+      "durations": [],
+      "release_windows": [
+        {
+          "id": "national_day",
+          "label": "国庆档"
+        }
+      ],
       "rating_count": null,
       "rating_star_count": null,
       "type": "movie"
@@ -839,7 +890,9 @@
       "douban_link_google": "https://movie.douban.com/subject/36192993/",
       "douban_link_verified": true,
       "overview": "一位不着调父亲的自洽之旅，老蔡带着他珍宝般特别的儿子上路旅行，去实现梦想。他们沿路向南，经历了人生一般的嬉闹苦痛，这一路不太平，但这一路却超平安。乔杉领衔全明星喜剧阵容，幽默温情展现人生百态。",
-      "durations": [],
+      "durations": [
+        "97分钟"
+      ],
       "release_windows": [
         {
           "id": "weekend",
@@ -990,18 +1043,22 @@
         },
         {
           "id": 5,
-          "name": "刘巴特尔"
+          "name": "冯韵之"
         },
         {
           "id": 6,
-          "name": "胡子轩"
+          "name": "刘巴特尔"
         },
         {
           "id": 7,
-          "name": "王勉"
+          "name": "胡子轩"
         },
         {
           "id": 8,
+          "name": "王勉"
+        },
+        {
+          "id": 9,
           "name": "段博文"
         }
       ],
@@ -1550,50 +1607,78 @@
         },
         {
           "id": 11,
-          "name": "迈克尔·帕克斯"
+          "name": "佩拉·哈莉-贾德林"
         },
         {
           "id": 12,
-          "name": "迈克尔·鲍文"
+          "name": "安布罗西亚·凯莉"
         },
         {
           "id": 13,
-          "name": "国村隼"
+          "name": "迈克尔·帕克斯"
         },
         {
           "id": 14,
-          "name": "大叶健二"
+          "name": "迈克尔·鲍文"
         },
         {
           "id": 15,
-          "name": "风祭由纪"
+          "name": "国村隼"
         },
         {
           "id": 16,
-          "name": "詹姆士·帕克斯"
+          "name": "前田爱"
         },
         {
           "id": 17,
-          "name": "佐藤佐吉"
+          "name": "楠见尚己"
         },
         {
           "id": 18,
-          "name": "乔纳森·劳格兰"
+          "name": "绿川光"
         },
         {
           "id": 19,
-          "name": "森下能幸"
+          "name": "大叶健二"
         },
         {
           "id": 20,
+          "name": "风祭由纪"
+        },
+        {
+          "id": 21,
+          "name": "詹姆士·帕克斯"
+        },
+        {
+          "id": 22,
+          "name": "佐藤佐吉"
+        },
+        {
+          "id": 23,
+          "name": "乔纳森·劳格兰"
+        },
+        {
+          "id": 24,
+          "name": "森下能幸"
+        },
+        {
+          "id": 25,
           "name": "岛口哲朗"
+        },
+        {
+          "id": 26,
+          "name": "张进战"
         }
       ],
       "countries": [
         "美国"
       ],
       "languages": [
-        "英语"
+        "英语",
+        "日语",
+        "粤语",
+        "西班牙语",
+        "法语"
       ],
       "aka": [
         "杀死比尔：整个血腥事件",
@@ -1619,7 +1704,7 @@
           "label": "暑期档"
         }
       ],
-      "rating_count": 66834,
+      "rating_count": 92900,
       "rating_star_count": 4.5,
       "type": "movie",
       "trailers": [
@@ -2551,7 +2636,7 @@
           "label": "暑期档"
         }
       ],
-      "rating_count": 3319913,
+      "rating_count": 3337451,
       "rating_star_count": 5,
       "type": "movie",
       "trailers": [
@@ -8224,7 +8309,7 @@
           "label": "暑期档"
         }
       ],
-      "rating_count": 397366,
+      "rating_count": 418728,
       "rating_star_count": 4,
       "type": "movie",
       "box_office": {
@@ -8592,7 +8677,7 @@
           "label": "暑期档"
         }
       ],
-      "rating_count": 1053868,
+      "rating_count": 1057105,
       "rating_star_count": 4.5,
       "type": "movie",
       "box_office": {
@@ -8696,7 +8781,7 @@
       ],
       "imdb_id": null,
       "poster_path": "posters/douban/movie_cn/37021936.jpg",
-      "douban_rating": "6.9",
+      "douban_rating": "6.8",
       "douban_link_google": "https://movie.douban.com/subject/37021936/",
       "douban_link_verified": true,
       "overview": "你见过最好的友情是什么样呢？高凡（章若楠 饰）和汪美丽（金靖 饰）她俩一定有发言权。\n从小时候相见时的“一眼定情”，再到长大后从北闯南的相伴同行，一路跌宕快乐走过二十余载，两人是彼此主动选择的“家人”。高凡会和汪美丽分享她全部的野心与秘密，高凡会让汪美丽陪她度过一切重要的时 刻，高凡会永远站在汪美丽这边……最重要的是，高凡会和汪美丽做一辈子的朋友，很长很长的那种，一辈子的朋友。\n影片改编自英国电影《已经开始想你》。",
@@ -8709,7 +8794,7 @@
           "label": "暑期档"
         }
       ],
-      "rating_count": 17187,
+      "rating_count": 17314,
       "rating_star_count": 3.5,
       "type": "movie",
       "box_office": {
@@ -9121,7 +9206,7 @@
           "label": "暑期档"
         }
       ],
-      "rating_count": 305700,
+      "rating_count": 308940,
       "rating_star_count": 3,
       "type": "movie",
       "box_office": {
@@ -10298,7 +10383,7 @@
           "label": "暑期档"
         }
       ],
-      "rating_count": 55144,
+      "rating_count": 57251,
       "rating_star_count": 3.5,
       "type": "movie",
       "box_office": {
@@ -12317,6 +12402,147 @@
       }
     },
     {
+      "id": 36235977,
+      "title": "后室",
+      "original_title": "Backrooms",
+      "release_date": "2026-06-26",
+      "genres": [
+        {
+          "id": 1,
+          "name": "科幻"
+        },
+        {
+          "id": 2,
+          "name": "恐怖"
+        }
+      ],
+      "directors": [
+        {
+          "id": 1,
+          "name": "凯恩·帕森斯"
+        }
+      ],
+      "actors": [
+        {
+          "id": 1,
+          "name": "切瓦特·埃加福"
+        },
+        {
+          "id": 2,
+          "name": "雷娜特·赖因斯夫"
+        },
+        {
+          "id": 3,
+          "name": "芬恩·本尼特"
+        },
+        {
+          "id": 4,
+          "name": "卢基塔·麦克斯韦尔"
+        },
+        {
+          "id": 5,
+          "name": "马克·杜普拉斯"
+        },
+        {
+          "id": 6,
+          "name": "阿万·乔贾"
+        },
+        {
+          "id": 7,
+          "name": "罗伯特·博布罗茨基"
+        },
+        {
+          "id": 8,
+          "name": "安珀·安布罗斯"
+        },
+        {
+          "id": 9,
+          "name": "克丽丝塔·科索宁"
+        },
+        {
+          "id": 10,
+          "name": "菲利普·格兰杰"
+        },
+        {
+          "id": 11,
+          "name": "凯瑟琳·伊莎贝尔"
+        },
+        {
+          "id": 12,
+          "name": "皮特·纽"
+        },
+        {
+          "id": 13,
+          "name": "莎拉·海沃德"
+        },
+        {
+          "id": 14,
+          "name": "娜塔莉·穆恩"
+        },
+        {
+          "id": 15,
+          "name": "卡利克斯·弗雷泽"
+        }
+      ],
+      "countries": [
+        "美国",
+        "加拿大"
+      ],
+      "languages": [
+        "英语",
+        "葡萄牙语"
+      ],
+      "aka": [
+        "后室(电影版)",
+        "边缘空间：电影",
+        "嚇房(港)",
+        "嚇房(戏院独家加长版)",
+        "Backrooms: Everything Must Go Edition w/ Bonus Footage"
+      ],
+      "imdb_id": null,
+      "poster_path": "posters/douban/movie_cn/36235977.jpg",
+      "douban_rating": "6.7",
+      "douban_link_google": "https://movie.douban.com/subject/36235977/",
+      "douban_link_verified": true,
+      "overview": "深陷困境的克拉克（切瓦特·埃加福 饰）意外切入名为“后室”的神秘空间，在这里一切物理规则崩塌，只有漫无边际的黄色房间，没有终点也没有出路。心理医生玛丽（雷娜特·赖因斯夫 饰）为寻回克拉克意外踏入此地，在这片异常空间中，随着心理防线的崩塌，未知的恐惧与实体也在一步步向他们靠近……\n影片脱胎于导演凯恩·帕森斯打造的现象级惊悚短片「后室」。",
+      "durations": [
+        "111分钟",
+        "127分钟(加长版)"
+      ],
+      "release_windows": [],
+      "rating_count": 130252,
+      "rating_star_count": 3.5,
+      "type": "movie",
+      "box_office": {
+        "source": "maoyan",
+        "updated_at": "2026-08-12T14:50:20.877Z",
+        "rank": 16,
+        "maoyan_movie_id": 1591067,
+        "movie_name": "后室",
+        "release_info": "上映48天",
+        "real_time_box_office": "4.06万",
+        "cumulative_box_office": "1.84亿",
+        "split_cumulative_box_office": "1.63亿",
+        "box_office_rate": "<0.1%",
+        "split_box_office_rate": "<0.1%",
+        "show_count": 385,
+        "show_count_rate": "<0.1%",
+        "seat_occupancy": "3.7%",
+        "avg_show_view": "2.8"
+      },
+      "trailers": [
+        {
+          "source": "bilibili",
+          "title": "终于来了！温子仁制片！年度爆款恐怖片《后室》内地预告，定档06.26",
+          "bvid": "BV1yPLQ6xEPw",
+          "url": "https://www.bilibili.com/video/BV1yPLQ6xEPw",
+          "embedUrl": "https://player.bilibili.com/player.html?bvid=BV1yPLQ6xEPw&page=1&qn=64&high_quality=1",
+          "cover": "http://i1.hdslb.com/bfs/archive/b8a7210dd5e70355abba28a64e7e1bec1271d25d.jpg",
+          "publishedAt": "2026-06-17T03:25:33.000Z"
+        }
+      ]
+    },
+    {
       "id": 37191746,
       "title": "四渡",
       "original_title": "四渡",
@@ -12536,147 +12762,6 @@
           "embedUrl": "https://player.bilibili.com/player.html?bvid=BV1FXdaBYEdG&page=1&qn=64&high_quality=1",
           "cover": "http://i0.hdslb.com/bfs/archive/d468e85285e29ee4a874126cbaab1e74c0b07cb9.jpg",
           "publishedAt": "2026-04-16T12:25:59.000Z"
-        }
-      ]
-    },
-    {
-      "id": 36235977,
-      "title": "后室",
-      "original_title": "Backrooms",
-      "release_date": "2026-06-26",
-      "genres": [
-        {
-          "id": 1,
-          "name": "科幻"
-        },
-        {
-          "id": 2,
-          "name": "恐怖"
-        }
-      ],
-      "directors": [
-        {
-          "id": 1,
-          "name": "凯恩·帕森斯"
-        }
-      ],
-      "actors": [
-        {
-          "id": 1,
-          "name": "切瓦特·埃加福"
-        },
-        {
-          "id": 2,
-          "name": "雷娜特·赖因斯夫"
-        },
-        {
-          "id": 3,
-          "name": "芬恩·本尼特"
-        },
-        {
-          "id": 4,
-          "name": "卢基塔·麦克斯韦尔"
-        },
-        {
-          "id": 5,
-          "name": "马克·杜普拉斯"
-        },
-        {
-          "id": 6,
-          "name": "阿万·乔贾"
-        },
-        {
-          "id": 7,
-          "name": "罗伯特·博布罗茨基"
-        },
-        {
-          "id": 8,
-          "name": "安珀·安布罗斯"
-        },
-        {
-          "id": 9,
-          "name": "克丽丝塔·科索宁"
-        },
-        {
-          "id": 10,
-          "name": "菲利普·格兰杰"
-        },
-        {
-          "id": 11,
-          "name": "凯瑟琳·伊莎贝尔"
-        },
-        {
-          "id": 12,
-          "name": "皮特·纽"
-        },
-        {
-          "id": 13,
-          "name": "莎拉·海沃德"
-        },
-        {
-          "id": 14,
-          "name": "娜塔莉·穆恩"
-        },
-        {
-          "id": 15,
-          "name": "卡利克斯·弗雷泽"
-        }
-      ],
-      "countries": [
-        "美国",
-        "加拿大"
-      ],
-      "languages": [
-        "英语",
-        "葡萄牙语"
-      ],
-      "aka": [
-        "后室(电影版)",
-        "边缘空间：电影",
-        "嚇房(港)",
-        "嚇房(戏院独家加长版)",
-        "Backrooms: Everything Must Go Edition w/ Bonus Footage"
-      ],
-      "imdb_id": null,
-      "poster_path": "posters/douban/movie_cn/36235977.jpg",
-      "douban_rating": "6.7",
-      "douban_link_google": "https://movie.douban.com/subject/36235977/",
-      "douban_link_verified": true,
-      "overview": "深陷困境的克拉克（切瓦特·埃加福 饰）意外切入名为“后室”的神秘空间，在这里一切物理规则崩塌，只有漫无边际的黄色房间，没有终点也没有出路。心理医生玛丽（雷娜特·赖因斯夫 饰）为寻回克拉克意外踏入此地，在这片异常空间中，随着心理防线的崩塌，未知的恐惧与实体也在一步步向他们靠近……\n影片脱胎于导演凯恩·帕森斯打造的现象级惊悚短片「后室」。",
-      "durations": [
-        "111分钟",
-        "127分钟(加长版)"
-      ],
-      "release_windows": [],
-      "rating_count": 130252,
-      "rating_star_count": 3.5,
-      "type": "movie",
-      "box_office": {
-        "source": "maoyan",
-        "updated_at": "2026-08-12T14:50:20.877Z",
-        "rank": 16,
-        "maoyan_movie_id": 1591067,
-        "movie_name": "后室",
-        "release_info": "上映48天",
-        "real_time_box_office": "4.06万",
-        "cumulative_box_office": "1.84亿",
-        "split_cumulative_box_office": "1.63亿",
-        "box_office_rate": "<0.1%",
-        "split_box_office_rate": "<0.1%",
-        "show_count": 385,
-        "show_count_rate": "<0.1%",
-        "seat_occupancy": "3.7%",
-        "avg_show_view": "2.8"
-      },
-      "trailers": [
-        {
-          "source": "bilibili",
-          "title": "终于来了！温子仁制片！年度爆款恐怖片《后室》内地预告，定档06.26",
-          "bvid": "BV1yPLQ6xEPw",
-          "url": "https://www.bilibili.com/video/BV1yPLQ6xEPw",
-          "embedUrl": "https://player.bilibili.com/player.html?bvid=BV1yPLQ6xEPw&page=1&qn=64&high_quality=1",
-          "cover": "http://i1.hdslb.com/bfs/archive/b8a7210dd5e70355abba28a64e7e1bec1271d25d.jpg",
-          "publishedAt": "2026-06-17T03:25:33.000Z"
         }
       ]
     },
@@ -13854,7 +13939,7 @@
         "102分钟"
       ],
       "release_windows": [],
-      "rating_count": 121820,
+      "rating_count": 126897,
       "rating_star_count": 4,
       "type": "movie",
       "box_office": {
@@ -22001,7 +22086,7 @@
       "overview": "",
       "durations": [],
       "release_windows": [],
-      "rating_count": 3219,
+      "rating_count": 3227,
       "rating_star_count": 4,
       "type": "movie"
     },
@@ -26266,7 +26351,7 @@
       "overview": "",
       "durations": [],
       "release_windows": [],
-      "rating_count": 2629,
+      "rating_count": 2633,
       "rating_star_count": 3,
       "type": "movie"
     },
@@ -32120,7 +32205,7 @@
           "label": "周末档"
         }
       ],
-      "rating_count": 507,
+      "rating_count": 508,
       "rating_star_count": 3.5,
       "type": "movie"
     },
@@ -35256,7 +35341,7 @@
       "overview": "",
       "durations": [],
       "release_windows": [],
-      "rating_count": 409,
+      "rating_count": 410,
       "rating_star_count": 3.5,
       "type": "movie"
     },
@@ -36646,7 +36731,7 @@
           "label": "周末档"
         }
       ],
-      "rating_count": 1340,
+      "rating_count": 1341,
       "rating_star_count": 4.5,
       "type": "movie"
     },
@@ -40645,7 +40730,7 @@
       "overview": "",
       "durations": [],
       "release_windows": [],
-      "rating_count": 1337,
+      "rating_count": 1342,
       "rating_star_count": 4,
       "type": "movie"
     },
@@ -52777,6 +52862,57 @@
       "release_windows": [],
       "rating_count": 423,
       "rating_star_count": 4,
+      "type": "movie"
+    },
+    {
+      "id": 36956292,
+      "title": "欧盟制造",
+      "original_title": "欧盟制造",
+      "release_date": "2025-08-31",
+      "genres": [
+        {
+          "id": 1,
+          "name": "剧情"
+        }
+      ],
+      "directors": [
+        {
+          "id": 1,
+          "name": "斯特凡·科曼达雷夫"
+        }
+      ],
+      "actors": [
+        {
+          "id": 1,
+          "name": "伊万·博尔内夫"
+        },
+        {
+          "id": 2,
+          "name": "Francesco Frattini"
+        },
+        {
+          "id": 3,
+          "name": "Gerasim Georgiev"
+        }
+      ],
+      "countries": [],
+      "languages": [],
+      "aka": [],
+      "imdb_id": null,
+      "poster_path": "posters/douban/movie_cn/36956292.jpg",
+      "douban_rating": "7.4",
+      "douban_link_google": "https://movie.douban.com/subject/36956292/",
+      "douban_link_verified": true,
+      "overview": "",
+      "durations": [],
+      "release_windows": [
+        {
+          "id": "summer",
+          "label": "暑期档"
+        }
+      ],
+      "rating_count": 277,
+      "rating_star_count": 3.5,
       "type": "movie"
     },
     {
